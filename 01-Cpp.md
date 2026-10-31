@@ -1,6 +1,6 @@
 # C++ 语言与 STL：2026 面经与参考答案
 
-[返回总目录](../README.md) · [来源档案](../sources/records.md) · [练习方法](00-使用与复习路线.md)
+[返回总目录](README.md) · [来源档案](sources/records.md) · [练习方法](00-使用与复习路线.md)
 
 对象模型、资源管理、容器与并发设施。本专题 **28 道题**。题目来自2026年发布的公开原帖；答案为独立整理，不代表面试官标准答案。技术资料的年份不受面经年份限制。
 
@@ -41,7 +41,7 @@
 
 ## CPP-001 · map 底层结构是什么，为什么选红黑树？
 
-**2026 面经出处：** [N67 · 中望软件](../sources/records.md#n67)、[CH03 · 未具名](../sources/records.md#ch03)。
+**2026 面经出处：** [N67 · 中望软件](sources/records.md#n67)、[CH03 · 未具名](sources/records.md#ch03)。
 
 **参考答案**
 
@@ -85,7 +85,7 @@ AVL更严格的平衡有利查找路径，但更新维护和节点布局仍影�
 
 ## CPP-003 · map 与 unordered_map 的结构、查询性能有何差异？
 
-**2026 面经出处：** [N67 · 中望软件](../sources/records.md#n67)、[CH03 · 未具名](../sources/records.md#ch03)。
+**2026 面经出处：** [N67 · 中望软件](sources/records.md#n67)、[CH03 · 未具名](sources/records.md#ch03)。
 
 **参考答案**
 
@@ -129,7 +129,7 @@ map 按比较器有序，操作通常 O(log n)；unordered_map 按哈希分桶�
 
 ## CPP-004 · 如何处理哈希冲突？
 
-**2026 面经出处：** [N46 · 字节](../sources/records.md#n46)。
+**2026 面经出处：** [N46 · 字节](sources/records.md#n46)。
 
 **参考答案**
 
@@ -174,7 +174,7 @@ map 按比较器有序，操作通常 O(log n)；unordered_map 按哈希分桶�
 
 ## CPP-005 · 有哪些智能指针，项目使用哪几种？
 
-**2026 面经出处：** [N69 · 网易雷火](../sources/records.md#n69)、[CH01 · BIGO](../sources/records.md#ch01)。
+**2026 面经出处：** [N69 · 网易雷火](sources/records.md#n69)、[CH01 · BIGO](sources/records.md#ch01)。
 
 **参考答案**
 
@@ -233,7 +233,7 @@ shared_ptr管理文件等资源要配合正确删除器；不能从同一裸指�
 
 ## CPP-008 · vector 扩容有什么影响？
 
-**2026 面经出处：** [AB05 · 未具名公司](../sources/records.md#ab05)。
+**2026 面经出处：** [AB05 · 未具名公司](sources/records.md#ab05)。
 
 **参考答案**
 
@@ -290,7 +290,7 @@ for (int i = 0; i < 10; ++i)
 
 ## CPP-010 · C++ 动态多态如何实现？
 
-**2026 面经出处：** [N67 · 中望软件](../sources/records.md#n67)、[N69 · 网易雷火](../sources/records.md#n69)。
+**2026 面经出处：** [N67 · 中望软件](sources/records.md#n67)、[N69 · 网易雷火](sources/records.md#n69)。
 
 **参考答案**
 
@@ -349,7 +349,7 @@ struct Derived : Base {
 
 ## CPP-013 · struct 与 class 的默认行为有何差异？
 
-**2026 面经出处：** [NC04 · 天翼云](../sources/records.md#nc04)、[N69 · 网易雷火](../sources/records.md#n69)。
+**2026 面经出处：** [NC04 · 天翼云](sources/records.md#nc04)、[N69 · 网易雷火](sources/records.md#n69)。
 
 **参考答案**
 
@@ -394,7 +394,7 @@ const成员函数仍可修改mutable缓存，也可能通过指针触及外部�
 
 ## CPP-014 · const 可修饰哪些对象，语义分别是什么？
 
-**2026 面经出处：** [NC04 · 天翼云](../sources/records.md#nc04)。
+**2026 面经出处：** [NC04 · 天翼云](sources/records.md#nc04)。
 
 **参考答案**
 
@@ -439,7 +439,7 @@ const描述访问权限，生命周期和跨线程同步仍要独立设计。
 
 ## CPP-015 · 重载与重写有什么区别？
 
-**2026 面经出处：** [NC04 · 天翼云](../sources/records.md#nc04)、[CH04 · 软牛科技](../sources/records.md#ch04)。
+**2026 面经出处：** [NC04 · 天翼云](sources/records.md#nc04)、[CH04 · 软牛科技](sources/records.md#ch04)。
 
 **参考答案**
 
@@ -498,7 +498,7 @@ struct Derived : Base {
 
 ## CPP-016 · C++ 对象和数据通常位于哪些内存区域？
 
-**2026 面经出处：** [NC04 · 天翼云](../sources/records.md#nc04)。
+**2026 面经出处：** [NC04 · 天翼云](sources/records.md#nc04)。
 
 **参考答案**
 
@@ -543,7 +543,7 @@ struct Derived : Base {
 
 ## CPP-019 · 左值引用与右值引用有何差别？
 
-**2026 面经出处：** [N69 · 网易雷火](../sources/records.md#n69)、[AB05 · 未具名公司](../sources/records.md#ab05)。
+**2026 面经出处：** [N69 · 网易雷火](sources/records.md#n69)、[AB05 · 未具名公司](sources/records.md#ab05)。
 
 **参考答案**
 
@@ -602,7 +602,7 @@ struct B : A {
 
 ## CPP-024 · static 的不同用法及生命周期是什么？
 
-**2026 面经出处：** [N67 · 中望软件](../sources/records.md#n67)。
+**2026 面经出处：** [N67 · 中望软件](sources/records.md#n67)。
 
 **参考答案**
 
@@ -647,7 +647,7 @@ const成员函数仍可修改mutable缓存，也可能通过指针触及外部�
 
 ## CPP-025 · 构造函数能否为虚函数，何时需要虚析构？
 
-**2026 面经出处：** [N67 · 中望软件](../sources/records.md#n67)、[AB05 · 未具名公司](../sources/records.md#ab05)、[CH03 · 未具名](../sources/records.md#ch03)、[CH04 · 软牛科技](../sources/records.md#ch04)。
+**2026 面经出处：** [N67 · 中望软件](sources/records.md#n67)、[AB05 · 未具名公司](sources/records.md#ab05)、[CH03 · 未具名](sources/records.md#ch03)、[CH04 · 软牛科技](sources/records.md#ch04)。
 
 **参考答案**
 
@@ -706,7 +706,7 @@ struct Derived : Base {
 
 ## CPP-026 · std::move 与转发引用分别解决什么？
 
-**2026 面经出处：** [N67 · 中望软件](../sources/records.md#n67)、[AB05 · 未具名公司](../sources/records.md#ab05)。
+**2026 面经出处：** [N67 · 中望软件](sources/records.md#n67)、[AB05 · 未具名公司](sources/records.md#ab05)。
 
 **参考答案**
 
@@ -765,7 +765,7 @@ move表达“可被取走”，forward表达“保持调用者原来的类别”
 
 ## CPP-027 · map 自定义键需要什么比较关系？
 
-**2026 面经出处：** [CH03 · 未具名](../sources/records.md#ch03)。
+**2026 面经出处：** [CH03 · 未具名](sources/records.md#ch03)。
 
 **参考答案**
 
@@ -809,7 +809,7 @@ map比较器要建立严格弱序，等价关系由!comp(a,b)且!comp(b,a)决定
 
 ## CPP-028 · unordered_map 自定义键需要怎样配合 hash 与相等比较？
 
-**2026 面经出处：** [CH03 · 未具名](../sources/records.md#ch03)。
+**2026 面经出处：** [CH03 · 未具名](sources/records.md#ch03)。
 
 **参考答案**
 
@@ -854,7 +854,7 @@ unordered_map需要哈希函数和等价比较。若equal(a,b)为真，hash(a)�
 
 ## CPP-029 · 同一裸指针分别构造两个 shared_ptr，会发生什么？
 
-**2026 面经出处：** [CH03 · 未具名](../sources/records.md#ch03)。
+**2026 面经出处：** [CH03 · 未具名](sources/records.md#ch03)。
 
 **参考答案**
 
@@ -913,7 +913,7 @@ get()只是观察裸指针，不是创建新所有权的许可。
 
 ## CPP-030 · notify_one 和 notify_all 如何选，交替打印为何可能卡住？
 
-**2026 面经出处：** [CH03 · 未具名](../sources/records.md#ch03)。
+**2026 面经出处：** [CH03 · 未具名](sources/records.md#ch03)。
 
 **参考答案**
 
@@ -958,7 +958,7 @@ notify_one唤醒一个等待者，但不保证是业务上下一位；notify_all
 
 ## CPP-031 · 保存 vector 尾元素地址后反复 push_back，有哪些错误？
 
-**2026 面经出处：** [AB05 · 未具名公司](../sources/records.md#ab05)。
+**2026 面经出处：** [AB05 · 未具名公司](sources/records.md#ab05)。
 
 **原题范围：** 原帖代码同时有 const 容器调用 push_back、把 back() 的值赋给指针等编译错误；先指出编译问题，再讨论修正后扩容悬空。
 
@@ -1017,7 +1017,7 @@ for (int i = 0; i < 10; ++i)
 
 ## CPP-032 · 派生类移动构造中，把具名参数传给基类会调用什么？
 
-**2026 面经出处：** [N69 · 网易雷火](../sources/records.md#n69)。
+**2026 面经出处：** [N69 · 网易雷火](sources/records.md#n69)。
 
 **原题范围：** 原帖示意代码不完整；这里只讨论初始化表达式 A(b) 与 A(std::move(b)) 的语义，不将其当可直接编译的完整程序。
 
@@ -1078,7 +1078,7 @@ struct B : A {
 
 ## CPP-033 · 函数模板不同类型实例中的局部 static 是否共享？
 
-**2026 面经出处：** [N69 · 网易雷火](../sources/records.md#n69)。
+**2026 面经出处：** [N69 · 网易雷火](sources/records.md#n69)。
 
 **参考答案**
 
@@ -1123,7 +1123,7 @@ const成员函数仍可修改mutable缓存，也可能通过指针触及外部�
 
 ## CPP-034 · 对象频繁创建销毁时，怎样用内存池管理生命周期？
 
-**2026 面经出处：** [N69 · 网易雷火](../sources/records.md#n69)。
+**2026 面经出处：** [N69 · 网易雷火](sources/records.md#n69)。
 
 **参考答案**
 
@@ -1168,7 +1168,7 @@ const成员函数仍可修改mutable缓存，也可能通过指针触及外部�
 
 ## CPP-035 · 有符号整数和无符号整数比较，为什么可能出乎预期？
 
-**2026 面经出处：** [CH04 · 软牛科技](../sources/records.md#ch04)。
+**2026 面经出处：** [CH04 · 软牛科技](sources/records.md#ch04)。
 
 **参考答案**
 
@@ -1213,7 +1213,7 @@ const成员函数仍可修改mutable缓存，也可能通过指针触及外部�
 
 ## CPP-036 · 函数实参有哪些隐式转换，explicit怎样约束？
 
-**2026 面经出处：** [CH04 · 软牛科技](../sources/records.md#ch04)。
+**2026 面经出处：** [CH04 · 软牛科技](sources/records.md#ch04)。
 
 **参考答案**
 
@@ -1258,7 +1258,7 @@ const成员函数仍可修改mutable缓存，也可能通过指针触及外部�
 
 ## CPP-037 · 封装、继承和多态怎样联系实际设计？
 
-**2026 面经出处：** [CH04 · 软牛科技](../sources/records.md#ch04)。
+**2026 面经出处：** [CH04 · 软牛科技](sources/records.md#ch04)。
 
 **参考答案**
 
@@ -1303,7 +1303,7 @@ private只是语言访问控制，不是安全沙箱；继承层次越深不代�
 
 ## CPP-038 · 静态链接、动态链接与运行时加载怎样区分？
 
-**2026 面经出处：** [CH04 · 软牛科技](../sources/records.md#ch04)。
+**2026 面经出处：** [CH04 · 软牛科技](sources/records.md#ch04)。
 
 **参考答案**
 
@@ -1348,7 +1348,7 @@ private只是语言访问控制，不是安全沙箱；继承层次越深不代�
 
 ## CPP-039 · 缺头文件、链接缺实现、运行时缺库分别如何排查？
 
-**2026 面经出处：** [CH04 · 软牛科技](../sources/records.md#ch04)。
+**2026 面经出处：** [CH04 · 软牛科技](sources/records.md#ch04)。
 
 **参考答案**
 
@@ -1393,7 +1393,7 @@ private只是语言访问控制，不是安全沙箱；继承层次越深不代�
 
 ## CPP-040 · 指针和引用在语义、传参与返回值上有什么差别？
 
-**2026 面经出处：** [CH04 · 软牛科技](../sources/records.md#ch04)。
+**2026 面经出处：** [CH04 · 软牛科技](sources/records.md#ch04)。
 
 **参考答案**
 

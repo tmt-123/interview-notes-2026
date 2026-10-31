@@ -1,0 +1,4223 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-30",
+  "sources": [
+    {
+      "id": "NC04",
+      "title": "0929 天翼云一面（C++后端）",
+      "author": "镜子Miracoln",
+      "url": "https://www.nowcoder.com/feed/main/detail/fd7e8af4ddd043fd91f8150ffdb903d0",
+      "company": "天翼云",
+      "role": "C++ 后端，广州，校招一面",
+      "display": "09-29 19:09（页面未展示年份）",
+      "interview": "2026-09-29（正文）",
+      "note": "两位面试官；正文明确无手撕、无笔试。",
+      "platform": "牛客",
+      "published": "2026-09-29T19:09:33+08:00",
+      "edited": "2026-09-29T19:09:33+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2919278
+    },
+    {
+      "id": "NC10",
+      "title": "字节跳动9.3 Agent开发一面面经",
+      "author": "小妞脂",
+      "url": "https://www.nowcoder.com/discuss/925342611194286080",
+      "company": "字节跳动",
+      "role": "Agent 开发，一面",
+      "display": "09-04 11:04（编辑；页面未展示年份）",
+      "interview": "9.3（标题未写年份）",
+      "note": "正文可读；长任务时长和数字构造例子作题目转述。",
+      "platform": "牛客",
+      "published": "2026-09-04T11:01:11+08:00",
+      "edited": "2026-09-04T11:04:38+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "925342611194286080"
+    },
+    {
+      "id": "NC11",
+      "title": "字节Agent开发后端 日常实习一面凉面",
+      "author": "溯洄之洲",
+      "url": "https://www.nowcoder.com/discuss/932295617999622144?sourceSSR=home",
+      "company": "字节跳动",
+      "role": "Agent 后端日常实习，一面",
+      "display": "09-24 08:13（编辑；页面未展示年份）",
+      "interview": "0923（正文未写年份）",
+      "note": "只收有具体内容的问题；“简单贪心题”没有完整题面，未补造。",
+      "platform": "牛客",
+      "published": "2026-09-23T15:29:57+08:00",
+      "edited": "2026-09-24T08:13:15+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "932295617999622144"
+    },
+    {
+      "id": "NC12",
+      "title": "网易互娱｜AI应用开发实习一面凉经",
+      "author": "Rankong",
+      "url": "https://www.nowcoder.com/feed/main/detail/2d982457b8b94da09fab383e275de93d?sourceSSR=dynamic",
+      "company": "网易互娱",
+      "role": "AI 应用开发实习，一面",
+      "display": "10-13 15:09（页面未展示年份）",
+      "interview": "10.12（正文未写年份）",
+      "note": "Python 并发、系统基础与 Agent Memory 同场出现。",
+      "platform": "牛客",
+      "published": "2026-10-13T15:09:13+08:00",
+      "edited": "2026-10-13T15:09:13+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2925442
+    },
+    {
+      "id": "NC13",
+      "title": "美团Agent一面",
+      "author": "在抱佛脚的芝士很完美",
+      "url": "https://www.nowcoder.com/feed/main/detail/18fa4134edb14e8c901787ee5cd33ace",
+      "company": "美团",
+      "role": "Agent，一面",
+      "display": "10-16 10:48（编辑；页面未展示年份）",
+      "interview": "10.9（正文未写年份）",
+      "note": "页面现标题为“美团Agent一面”；检索线索里的“凉经”不是本次看到的原标题。",
+      "platform": "牛客",
+      "published": "2026-10-12T10:48:12+08:00",
+      "edited": "2026-10-16T10:48:23+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2924661
+    },
+    {
+      "id": "NC14",
+      "title": "美团Agent开发一面 日常",
+      "author": "QHN沙壁",
+      "url": "https://www.nowcoder.com/feed/main/detail/58159306df52463ab75d72daa80d66df",
+      "company": "美团",
+      "role": "Agent 开发日常实习，一面",
+      "display": "08-25 20:20（编辑；页面未展示年份）",
+      "interview": "未写",
+      "note": "约75分钟；合并链表题的数量条件缺失，不补成合并K个链表。",
+      "platform": "牛客",
+      "published": "2026-08-25T20:18:06+08:00",
+      "edited": "2026-08-25T20:20:33+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2896699
+    },
+    {
+      "id": "NC15",
+      "title": "蚂蚁 复活赛 agent开发 二面",
+      "author": "赛文X",
+      "url": "https://www.nowcoder.com/feed/main/detail/beae35cec366487a918abee5421216f2",
+      "company": "蚂蚁集团",
+      "role": "Agent 开发，社招二面（正文标签）",
+      "display": "09-09 17:15（页面未展示年份）",
+      "interview": "未写",
+      "note": "只收技术和项目问题；个人薪酬、绩效、离职细节不转载。",
+      "platform": "牛客",
+      "published": "2026-09-09T17:15:31+08:00",
+      "edited": "2026-09-09T17:15:31+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2906657
+    },
+    {
+      "id": "NC16",
+      "title": "字节跳动火山引擎agent开发秋招一面",
+      "author": "DylanTheReal",
+      "url": "https://www.nowcoder.com/feed/main/detail/3ae147c4caaf40b580071ef9da71da2e?sourceSSR=dynamic",
+      "company": "字节跳动火山引擎",
+      "role": "Agent 开发，秋招一面",
+      "display": "10-09 14:11（页面未展示年份）",
+      "interview": "未写",
+      "note": "与 NC17 是同一作者同一公司不同轮次，频次统计按作者与公司合并。",
+      "platform": "牛客",
+      "published": "2026-10-09T14:11:18+08:00",
+      "edited": "2026-10-09T14:11:18+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2923108
+    },
+    {
+      "id": "NC17",
+      "title": "字节跳动火山引擎agent开发秋招二面",
+      "author": "DylanTheReal",
+      "url": "https://www.nowcoder.com/feed/main/detail/329a57a7469045058209b214e387e32c",
+      "company": "字节跳动火山引擎",
+      "role": "Agent 开发，秋招二面",
+      "display": "10-09 14:12（页面未展示年份）",
+      "interview": "未写",
+      "note": "网络场景题保留客户端、服务端及各自默认网关三个约束。",
+      "platform": "牛客",
+      "published": "2026-10-09T14:12:30+08:00",
+      "edited": "2026-10-09T14:12:30+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2923110
+    },
+    {
+      "id": "NC18",
+      "title": "蚂蚁 AI应用研发 一面",
+      "author": "总是难免",
+      "url": "https://www.nowcoder.com/feed/main/detail/b4b8431d196a4e92b92b2b1b64c9d7d7",
+      "company": "蚂蚁集团",
+      "role": "AI 应用研发，一面",
+      "display": "10-12 12:19（页面未展示年份）",
+      "interview": "未写",
+      "note": "同场涉及 Redis、MySQL、线上 OOM、提示词注入与 Skill 治理。",
+      "platform": "牛客",
+      "published": "2026-10-12T12:19:49+08:00",
+      "edited": "2026-10-12T12:19:49+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2924716
+    },
+    {
+      "id": "NC19",
+      "title": "腾讯IEG后台开发实习一面面经（已过等二面通知中）",
+      "author": "lailai1437",
+      "url": "https://www.nowcoder.com/discuss/932638301494738944?sourceSSR=dynamic",
+      "company": "腾讯 IEG",
+      "role": "后台开发实习，一面",
+      "display": "09-24 14:11（页面未展示年份）",
+      "interview": "未写",
+      "note": "岗位含传统后台题；原帖说明面试官并非 Agent 方向，不把它改称 Agent 专岗。",
+      "platform": "牛客",
+      "published": "2026-09-24T14:11:39+08:00",
+      "edited": "2026-09-24T14:11:39+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "932638301494738944"
+    },
+    {
+      "id": "NC20",
+      "title": "小红书大模型平台 Agentic 全栈研发练习生 一面凉经",
+      "author": "暴龙战士6657",
+      "url": "https://www.nowcoder.com/feed/main/detail/e5e9311a623940eead6ec98c65e7f9e8?sourceSSR=dynamic",
+      "company": "小红书",
+      "role": "大模型平台 Agentic 全栈研发实习，一面",
+      "display": "08-07 15:08（编辑；页面未展示年份）",
+      "interview": "2026-08-06（正文）",
+      "note": "来源平台为牛客，公司为小红书。标题“练习生”按原帖保留；未引用反问中的转正承诺。",
+      "platform": "牛客",
+      "published": "2026-08-07T15:02:31+08:00",
+      "edited": "2026-08-07T15:08:24+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2886182
+    },
+    {
+      "id": "NC21",
+      "title": "拼多多（PDD）-服务端开发一面（秋招）",
+      "author": "BCZMJ",
+      "url": "https://www.nowcoder.com/feed/main/detail/11c5ce9613414e3bb36a3ae08a0df55a?sourceSSR=dynamic",
+      "company": "拼多多",
+      "role": "服务端开发，秋招一面",
+      "display": "10-11 17:08（页面未展示年份）",
+      "interview": "10.11 16:00（正文未写年份）",
+      "note": "原帖“时长50h”明显存疑，本库不改写成50分钟；未写清的动态规划题不收。",
+      "platform": "牛客",
+      "published": "2026-10-11T17:08:50+08:00",
+      "edited": "2026-10-11T17:08:50+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2924355
+    },
+    {
+      "id": "NC22",
+      "title": "拼多多服务端开发一面",
+      "author": "红心6",
+      "url": "https://www.nowcoder.com/discuss/938771593323364352?sourceSSR=dynamic",
+      "company": "拼多多",
+      "role": "服务端开发，一面；正文带27届秋招标签",
+      "display": "10-16 09:51（编辑；页面未展示年份）",
+      "interview": "2026-10-11 11:00（正文）",
+      "note": "保留联合索引题的等值、范围及排序条件；算法题按任务区间题意记录。",
+      "platform": "牛客",
+      "published": "2026-10-11T12:23:09+08:00",
+      "edited": "2026-10-16T09:51:20+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "938771593323364352"
+    },
+    {
+      "id": "N02",
+      "title": "字节日常实习-集团信息系统 一面面经",
+      "author": "ZephyrZheng_",
+      "url": "https://www.nowcoder.com/feed/main/detail/00e3488329c041c5a5a357c14ce138b4",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-10-13T13:49:02+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-10-13T13:49:02+08:00",
+      "edited": "2026-10-13T13:49:02+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2925396
+    },
+    {
+      "id": "N05",
+      "title": "快手2面 10.13",
+      "author": "Decadeqqq",
+      "url": "https://www.nowcoder.com/feed/main/detail/6f502036c44f47f197e73d0d7476b5e0",
+      "company": "快手",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-10-13T16:04:49+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-10-13T16:04:49+08:00",
+      "edited": "2026-10-13T16:05:25+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2925488
+    },
+    {
+      "id": "N06",
+      "title": "OPPO 全栈一面",
+      "author": "牛客419260978号",
+      "url": "https://www.nowcoder.com/feed/main/detail/c51898e35e72429b8fed56f22b1a49bd",
+      "company": "OPPO",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-10-13T13:11:39+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-10-13T13:11:39+08:00",
+      "edited": "2026-10-13T13:11:39+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2925376
+    },
+    {
+      "id": "N13",
+      "title": "b站Java开发一面",
+      "author": "同尘去",
+      "url": "https://www.nowcoder.com/discuss/938405156461215744?sourceSSR=dynamic",
+      "company": "b站",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-10-10T12:07:04+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-10-10T12:07:04+08:00",
+      "edited": "2026-10-10T12:13:30+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "938405156461215744"
+    },
+    {
+      "id": "N16",
+      "title": "字节AI全栈二面",
+      "author": "SOLDIER_627",
+      "url": "https://www.nowcoder.com/discuss/938145178114592768",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-10-09T18:54:00+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-10-09T18:54:00+08:00",
+      "edited": "2026-10-09T18:54:00+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "938145178114592768"
+    },
+    {
+      "id": "N17",
+      "title": "字节中国交易与广告秋招后端开发一面(10.9)",
+      "author": "辣条吃多了_",
+      "url": "https://www.nowcoder.com/feed/main/detail/fc9cd2f4ef8e44dd865510bb447d1122?sourceSSR=dynamic",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-10-09T16:46:54+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-10-09T16:46:54+08:00",
+      "edited": "2026-10-09T16:46:54+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2923244
+    },
+    {
+      "id": "N18",
+      "title": "百度agent harness一面",
+      "author": "lucasian",
+      "url": "https://www.nowcoder.com/discuss/937747584578310144?sourceSSR=dynamic",
+      "company": "百度",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-10-08T16:34:07+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-10-08T16:34:07+08:00",
+      "edited": "2026-10-08T16:34:07+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "937747584578310144"
+    },
+    {
+      "id": "N19",
+      "title": "10.8 字节第三个轮回（业务Data Agent）",
+      "author": "舟杨波",
+      "url": "https://www.nowcoder.com/feed/main/detail/c42ce9e02e5f44c29768841663077d59",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-10-08T21:58:46+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "只收字节段落；P.S.匿名另一家公司问题不归因字节。",
+      "platform": "牛客",
+      "published": "2026-10-08T21:58:46+08:00",
+      "edited": "2026-10-08T21:58:46+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2922807
+    },
+    {
+      "id": "N20",
+      "title": "秋招-字节跳动-抖音电商-Agent开发一/二/三面",
+      "author": "远航_随风",
+      "url": "https://www.nowcoder.com/discuss/937314680270311424",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-10-07T11:53:54+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-10-07T11:53:54+08:00",
+      "edited": "2026-10-07T11:54:57+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "937314680270311424"
+    },
+    {
+      "id": "N21",
+      "title": "阿里千问Agent开发二面",
+      "author": "算法打工人阿旺",
+      "url": "https://www.nowcoder.com/feed/main/detail/61346587b71949c6a56be58698e987fd?sourceSSR=dynamic",
+      "company": "阿里",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-10-04T18:50:23+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-10-04T18:50:23+08:00",
+      "edited": "2026-10-04T18:50:23+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2921267
+    },
+    {
+      "id": "N22",
+      "title": "携程AI应用开发实习一面（OC）",
+      "author": "鱼鱼Code",
+      "url": "https://www.nowcoder.com/discuss/933058120102739968",
+      "company": "携程",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-25T17:59:51+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-25T17:59:51+08:00",
+      "edited": "2026-09-25T17:59:51+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "933058120102739968"
+    },
+    {
+      "id": "N23",
+      "title": "【面经】字节/AI 应用工程师 一面挂经……",
+      "author": "Wood555",
+      "url": "https://www.nowcoder.com/discuss/933023499399024640?sourceSSR=dynamic",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-25T15:42:17+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-25T15:42:17+08:00",
+      "edited": "2026-09-25T15:42:47+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "933023499399024640"
+    },
+    {
+      "id": "N24",
+      "title": "字节国际化广告后端实习一二面凉经",
+      "author": "鱼鱼Code",
+      "url": "https://www.nowcoder.com/discuss/933056720308305920",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-25T17:54:17+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-25T17:54:17+08:00",
+      "edited": "2026-09-25T17:59:20+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "933056720308305920"
+    },
+    {
+      "id": "N25",
+      "title": "京东后端实习一二面面经（Offer）",
+      "author": "鱼鱼Code",
+      "url": "https://www.nowcoder.com/discuss/933060569995759616",
+      "company": "京东",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-25T18:09:35+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-25T18:09:35+08:00",
+      "edited": "2026-09-25T18:09:35+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "933060569995759616"
+    },
+    {
+      "id": "N27",
+      "title": "字节 Agent 秋招二面",
+      "author": "吃饱了撑的容器",
+      "url": "https://www.nowcoder.com/discuss/932657562825027584?sourceSSR=dynamic",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-24T15:28:11+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-24T15:28:11+08:00",
+      "edited": "2026-09-24T15:28:11+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "932657562825027584"
+    },
+    {
+      "id": "N29",
+      "title": "快手大模型agent研发一面",
+      "author": "月野a",
+      "url": "https://www.nowcoder.com/discuss/932315325276618752",
+      "company": "快手",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-23T16:48:15+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-23T16:48:15+08:00",
+      "edited": "2026-09-23T16:48:15+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "932315325276618752"
+    },
+    {
+      "id": "N30",
+      "title": "百度后端开发一面凉经",
+      "author": "抱月的樱",
+      "url": "https://www.nowcoder.com/discuss/932313667943616512",
+      "company": "百度",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-23T16:41:40+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-23T16:41:40+08:00",
+      "edited": "2026-09-23T16:41:40+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "932313667943616512"
+    },
+    {
+      "id": "N31",
+      "title": "百度 一面",
+      "author": "卷不动了w",
+      "url": "https://www.nowcoder.com/discuss/932326261840412672",
+      "company": "百度",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-23T17:31:43+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-23T17:31:43+08:00",
+      "edited": "2026-09-23T23:25:17+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "932326261840412672"
+    },
+    {
+      "id": "N32",
+      "title": "9.22 阿里千问二面",
+      "author": "Decadeqqq",
+      "url": "https://www.nowcoder.com/feed/main/detail/5ff7b7fde8bc49eb960d5badde3ac623",
+      "company": "阿里",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-22T17:04:33+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-22T17:04:33+08:00",
+      "edited": "2026-09-22T17:04:33+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2915521
+    },
+    {
+      "id": "N33",
+      "title": "美团后端开发一面",
+      "author": "同尘去",
+      "url": "https://www.nowcoder.com/discuss/932016310274228224",
+      "company": "美团",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-22T21:00:04+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-22T21:00:04+08:00",
+      "edited": "2026-09-22T21:00:04+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "932016310274228224"
+    },
+    {
+      "id": "N35",
+      "title": "字节数据中台Agent全栈面经",
+      "author": "RyanChen123",
+      "url": "https://www.nowcoder.com/feed/main/detail/fe77496948f74b4091ab4bb6e8156c8b",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-21T16:01:17+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-21T16:01:17+08:00",
+      "edited": "2026-09-21T16:01:17+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2914727
+    },
+    {
+      "id": "N36",
+      "title": "字节广告团队agent面经（一二面）",
+      "author": "点点去质器",
+      "url": "https://www.nowcoder.com/discuss/930870582843805696",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-19T17:07:22+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-19T17:07:22+08:00",
+      "edited": "2026-09-19T17:07:22+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "930870582843805696"
+    },
+    {
+      "id": "N37",
+      "title": "美团AI Agent一面",
+      "author": "会收到的打工人",
+      "url": "https://www.nowcoder.com/feed/main/detail/50bcdc47e7754aa7be59b6318fea514b",
+      "company": "美团",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-15T15:30:57+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-15T15:30:57+08:00",
+      "edited": "2026-09-16T19:30:00+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2910557
+    },
+    {
+      "id": "N38",
+      "title": "科大讯飞面经 线下面试武汉场 Agent研发工程师-Harness方向",
+      "author": "Tale2229",
+      "url": "https://www.nowcoder.com/feed/main/detail/671d2fa1d7c04322837ee1f5788dd69d",
+      "company": "科大讯飞",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-14T18:15:42+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-14T18:15:42+08:00",
+      "edited": "2026-09-15T18:05:35+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2909965
+    },
+    {
+      "id": "N39",
+      "title": "百度后端二面",
+      "author": "SOLDIER_627",
+      "url": "https://www.nowcoder.com/discuss/929431883266424832",
+      "company": "百度",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-15T17:50:29+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-15T17:50:29+08:00",
+      "edited": "2026-09-30T14:50:05+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "929431883266424832"
+    },
+    {
+      "id": "N40",
+      "title": "美团AI后端一面",
+      "author": "SOLDIER_627",
+      "url": "https://www.nowcoder.com/discuss/927579574932705280",
+      "company": "美团",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-10T15:10:04+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-10T15:10:04+08:00",
+      "edited": "2026-09-11T10:50:40+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "927579574932705280"
+    },
+    {
+      "id": "N42",
+      "title": "9.7百度agent开发日常实习面经",
+      "author": "愤怒的哈里许愿简历通过",
+      "url": "https://www.nowcoder.com/feed/main/detail/bb8c28105f364770b57ff5eb5649cc60",
+      "company": "百度",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-07T16:02:34+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-07T16:02:34+08:00",
+      "edited": "2026-09-07T16:02:34+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2905034
+    },
+    {
+      "id": "N44",
+      "title": "深信服Agent开发实习生一面二面，长时间被吊着，最终被横向掉了",
+      "author": "杰尼龟准备秋招中",
+      "url": "https://www.nowcoder.com/feed/main/detail/14b2c379ae434062a009aefea9fc5df9?sourceSSR=dynamic",
+      "company": "深信服",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-02T10:42:07+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-02T10:42:07+08:00",
+      "edited": "2026-09-02T10:42:07+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2901355
+    },
+    {
+      "id": "N45",
+      "title": "滴滴 后端实习一面",
+      "author": "匿名牛油",
+      "url": "https://www.nowcoder.com/discuss/924334862113198080?sourceSSR=dynamic",
+      "company": "原帖未具名",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-01T16:16:44+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-01T16:16:44+08:00",
+      "edited": "2026-09-01T16:18:20+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "924334862113198080"
+    },
+    {
+      "id": "N46",
+      "title": "字节Agent开发日常实习一面",
+      "author": "htt键盘手",
+      "url": "https://www.nowcoder.com/feed/main/detail/d2cf5165d1184b59879eff5793b7b453",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-08-27T17:56:48+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-08-27T17:56:48+08:00",
+      "edited": "2026-08-27T20:11:50+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2898090
+    },
+    {
+      "id": "N49",
+      "title": "小红书Agent开发实习生一面凉经，附百度Agent凉经",
+      "author": "杰尼龟准备秋招中",
+      "url": "https://www.nowcoder.com/feed/main/detail/e319aadc79a9479397a6661a7f5ca088?sourceSSR=dynamic",
+      "company": "百度",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-08-24T16:56:02+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "混合记录按小红书/百度段落区分；本轮只提取小红书段的数据库和算法题。",
+      "platform": "牛客",
+      "published": "2026-08-24T16:56:02+08:00",
+      "edited": "2026-08-24T16:56:02+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2895902
+    },
+    {
+      "id": "N50",
+      "title": "27届秋招-腾讯WXG-微信读书-一面（已挂）",
+      "author": "dolzhuying",
+      "url": "https://www.nowcoder.com/feed/main/detail/3ffc762437274543b6a8f5e2ea6fb535?sourceSSR=dynamic",
+      "company": "腾讯",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-08-24T23:04:25+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-08-24T23:04:25+08:00",
+      "edited": "2026-08-24T23:04:25+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2896138
+    },
+    {
+      "id": "N51",
+      "title": "27届秋招-蚂蚁-财富技术部-一面（电话面）",
+      "author": "dolzhuying",
+      "url": "https://www.nowcoder.com/feed/main/detail/02718e9f48ff436f96d6ee8c6f11a47e",
+      "company": "蚂蚁",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-08-21T17:17:13+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-08-21T17:17:13+08:00",
+      "edited": "2026-08-24T22:55:58+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2894384
+    },
+    {
+      "id": "N52",
+      "title": "百度后端一面",
+      "author": "墨陨",
+      "url": "https://www.nowcoder.com/feed/main/detail/844d3eed71074b2991750f799639185a",
+      "company": "百度",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-08-19T21:03:56+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-08-19T21:03:56+08:00",
+      "edited": "2026-08-19T21:03:56+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2893279
+    },
+    {
+      "id": "N53",
+      "title": "深信服 agent开发 一面",
+      "author": "赛文X",
+      "url": "https://www.nowcoder.com/feed/main/detail/45b40914f438434b88b60a21e3d5ec1e?sourceSSR=dynamic",
+      "company": "深信服",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-08-13T18:26:02+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-08-13T18:26:02+08:00",
+      "edited": "2026-08-28T23:20:29+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2889665
+    },
+    {
+      "id": "N55",
+      "title": "字节agent开发面经",
+      "author": "越面越麻",
+      "url": "https://www.nowcoder.com/feed/main/detail/577bbe48f8f846159c5b4400c4f10204",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-08-05T17:28:19+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-08-05T17:28:19+08:00",
+      "edited": "2026-08-09T03:01:57+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2884985
+    },
+    {
+      "id": "N56",
+      "title": "字节AI全栈开发一面面经(已过)",
+      "author": "osillow",
+      "url": "https://www.nowcoder.com/discuss/913848724952997888",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-08-03T17:48:35+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-08-03T17:48:35+08:00",
+      "edited": "2026-08-03T17:48:35+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "913848724952997888"
+    },
+    {
+      "id": "N57",
+      "title": "阿里淘天agent开发一面面经（50分钟）",
+      "author": "搬砖界泰斗",
+      "url": "https://www.nowcoder.com/feed/main/detail/b5000060cf85482097b87621f8cbaccd",
+      "company": "阿里",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-07-18T03:06:16+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-07-18T03:06:16+08:00",
+      "edited": "2026-07-18T03:06:16+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2877304
+    },
+    {
+      "id": "N58",
+      "title": "快手-data agent开发-1面-06.16",
+      "author": "不知道起什么名字好___",
+      "url": "https://www.nowcoder.com/discuss/904419777614049280",
+      "company": "快手",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-07-08T17:21:18+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-07-08T17:21:18+08:00",
+      "edited": "2026-07-08T17:21:18+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "904419777614049280"
+    },
+    {
+      "id": "N60",
+      "title": "27实习蚂蚁agent开发一面凉经",
+      "author": "求职小花花",
+      "url": "https://www.nowcoder.com/feed/main/detail/ee2ce9ef447c42368c12d13aa38beee9",
+      "company": "蚂蚁",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-05-02T22:50:00+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-05-02T22:50:00+08:00",
+      "edited": "2026-05-02T22:50:00+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2846672
+    },
+    {
+      "id": "N63",
+      "title": "字节搜索广告 后端开发一面",
+      "author": "牛客810197670号",
+      "url": "https://www.nowcoder.com/feed/main/detail/ff1932e4e5e04c82befaba3201944039",
+      "company": "字节",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-04-24T03:20:51+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-04-24T03:20:51+08:00",
+      "edited": "2026-04-24T03:20:51+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2841499
+    },
+    {
+      "id": "N64",
+      "title": "京东AI Agent日常实习一面",
+      "author": "求offer彩虹",
+      "url": "https://www.nowcoder.com/feed/main/detail/a02f36099d604de189f717b162e3e052",
+      "company": "京东",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-03-29T19:35:00+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-03-29T19:35:00+08:00",
+      "edited": "2026-03-29T19:35:00+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2822564
+    },
+    {
+      "id": "N65",
+      "title": "快手后端-Java开发一面面经",
+      "author": "EaXon",
+      "url": "https://www.nowcoder.com/feed/main/detail/7bd4afba29bc49c789427b5a00ced397?sourceSSR=dynamic",
+      "company": "快手",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-03-24T17:51:16+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-03-24T17:51:16+08:00",
+      "edited": "2026-03-24T18:21:27+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": 2818381
+    },
+    {
+      "id": "N67",
+      "title": "中望软件C++一面",
+      "author": "牛客252268088号",
+      "url": "https://www.nowcoder.com/discuss/931168011086548992",
+      "company": "中望软件",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-09-20T12:49:14+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "仅采用正文明确的问题；参考答案由本库另行编写。",
+      "platform": "牛客",
+      "published": "2026-09-20T12:49:14+08:00",
+      "edited": "2026-09-20T12:49:14+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "931168011086548992"
+    },
+    {
+      "id": "N69",
+      "title": "2027届网易雷火游戏客户端面经（一面，二面，三面，HR面）",
+      "author": "源代码_",
+      "url": "https://www.nowcoder.com/discuss/923023346948657152",
+      "company": "网易雷火",
+      "role": "见原标题与正文；未将作者资料标签推定为岗位",
+      "display": "2026-08-29T01:25:15+08:00",
+      "interview": "正文月日或轮次见原帖；未擅自补完整面试日期",
+      "note": "相邻的游戏客户端岗，仅抽取C++、并发和通用算法；正文明确写2026。 客户端岗位仅抽取通用C++与并发问题，未将游戏岗位改称后端。",
+      "platform": "牛客",
+      "published": "2026-08-29T01:25:15+08:00",
+      "edited": "2026-08-29T01:30:15+08:00",
+      "year_basis": "原站页面 __INITIAL_STATE__ 中本帖 createTime/createdAt",
+      "year_kind": "首次发布于2026；正文面试日另列",
+      "raw_id": "923023346948657152"
+    },
+    {
+      "id": "CH01",
+      "title": "BIGO 一面：C++ 后端与系统方向面经复盘",
+      "author": "晨's Blog",
+      "url": "https://waiting.org.cn/posts/bigo-first-interview",
+      "company": "BIGO",
+      "role": "C++后端一面",
+      "display": "2026-08-30",
+      "interview": "面试具体日期未写",
+      "note": "2026年个人复盘，保留题目，不照搬作者补写的答案。",
+      "platform": "个人博客",
+      "published": "2026-08-30",
+      "edited": "2026-08-30",
+      "year_basis": "页面日期及 article:published_time / datePublished",
+      "year_kind": "2026发表复盘；具体面试日未写"
+    },
+    {
+      "id": "CH02",
+      "title": "BIGO 二面：Linux 性能采集、RPC 异常与 AI 工具面经复盘",
+      "author": "晨's Blog",
+      "url": "https://waiting.org.cn/posts/bigo-second-interview",
+      "company": "BIGO",
+      "role": "C++后端二面",
+      "display": "2026-09-03",
+      "interview": "面试具体日期未写",
+      "note": "2026年个人复盘，保留题目，不照搬作者补写的答案。",
+      "platform": "个人博客",
+      "published": "2026-09-03",
+      "edited": "2026-09-08",
+      "year_basis": "页面日期及 article:published_time / datePublished",
+      "year_kind": "2026发表复盘；具体面试日未写"
+    },
+    {
+      "id": "CH03",
+      "title": "C++ 面试复盘：关联容器、线程交替打印与对象生命周期",
+      "author": "晨's Blog",
+      "url": "https://waiting.org.cn/posts/cpp-interview-maps-thread-order-shared-ptr",
+      "company": "未具名",
+      "role": "C++面试复盘，具体岗位未写",
+      "display": "2026-08-15",
+      "interview": "面试具体日期未写",
+      "note": "2026年个人复盘，保留题目，不照搬作者补写的答案。",
+      "platform": "个人博客",
+      "published": "2026-08-15",
+      "edited": "2026-08-15",
+      "year_basis": "页面日期及 article:published_time / datePublished",
+      "year_kind": "2026发表复盘；具体面试日未写"
+    },
+    {
+      "id": "AB01",
+      "title": "2026.10.15-大厂云游戏AI全栈二面面经与复盘",
+      "author": "AbelTomato",
+      "url": "https://abeltomato-blog.vercel.app/blog/2026/20261015-大厂云游戏ai全栈二面面经与复盘/",
+      "company": "未具名公司",
+      "role": "见原标题；相邻全栈/测开只抽通用内容",
+      "display": "2026-10-16T07:25:00.000Z",
+      "interview": "2026-10-15（标题）",
+      "note": "公司未具名，不能按“大厂云游戏”猜测公司；作者复盘答案另行核对。",
+      "platform": "个人博客",
+      "published": "2026-10-16T07:25:00.000Z",
+      "edited": "",
+      "year_basis": "原标题明确2026面试日期；文章页面日期",
+      "year_kind": "正文/标题明确2026面试日期"
+    },
+    {
+      "id": "AB02",
+      "title": "2026.10.14-大厂云游戏AI全栈一面面经与复盘",
+      "author": "AbelTomato",
+      "url": "https://abeltomato-blog.vercel.app/blog/2026/20261014-大厂云游戏ai全栈一面面经与复盘/",
+      "company": "未具名公司",
+      "role": "见原标题；相邻全栈/测开只抽通用内容",
+      "display": "2026-10-13T07:25:00.000Z",
+      "interview": "2026-10-14（标题）",
+      "note": "公司未具名，不能按“大厂云游戏”猜测公司；作者复盘答案另行核对。 页面发布元数据为2026-10-13，标题面试日为2026-10-14，两者存在先后不一致；原样记录，不据此认定精确面试日。",
+      "platform": "个人博客",
+      "published": "2026-10-13T07:25:00.000Z",
+      "edited": "",
+      "year_basis": "原标题明确2026面试日期；文章页面日期",
+      "year_kind": "正文/标题明确2026面试日期"
+    },
+    {
+      "id": "AB03",
+      "title": "2026.09.28-西安小厂AI应用一面面经与复盘",
+      "author": "AbelTomato",
+      "url": "https://abeltomato-blog.vercel.app/blog/2026/20260928-西安小厂ai应用一面面经与复盘/",
+      "company": "未具名公司",
+      "role": "见原标题；相邻全栈/测开只抽通用内容",
+      "display": "2026-09-28T09:08:00.000Z",
+      "interview": "2026-09-28（标题）",
+      "note": "公司未具名，不能按“大厂云游戏”猜测公司；作者复盘答案另行核对。",
+      "platform": "个人博客",
+      "published": "2026-09-28T09:08:00.000Z",
+      "edited": "",
+      "year_basis": "原标题明确2026面试日期；文章页面日期",
+      "year_kind": "正文/标题明确2026面试日期"
+    },
+    {
+      "id": "AB04",
+      "title": "2026.09.23-中厂测开一面面经与复盘",
+      "author": "AbelTomato",
+      "url": "https://abeltomato-blog.vercel.app/blog/2026/20260923-中厂测开一面面经与复盘/",
+      "company": "未具名公司",
+      "role": "见原标题；相邻全栈/测开只抽通用内容",
+      "display": "2026-09-23T07:01:00.000Z",
+      "interview": "2026-09-23（标题）",
+      "note": "公司未具名，不能按“大厂云游戏”猜测公司；作者复盘答案另行核对。",
+      "platform": "个人博客",
+      "published": "2026-09-23T07:01:00.000Z",
+      "edited": "",
+      "year_basis": "原标题明确2026面试日期；文章页面日期",
+      "year_kind": "正文/标题明确2026面试日期"
+    },
+    {
+      "id": "AB05",
+      "title": "2026.09.20-深圳小厂Rust全栈面经与复盘",
+      "author": "AbelTomato",
+      "url": "https://abeltomato-blog.vercel.app/blog/2026/20260920-深圳小厂rust全栈面经与复盘/",
+      "company": "未具名公司",
+      "role": "见原标题；相邻全栈/测开只抽通用内容",
+      "display": "2026-09-21T02:02:00.000Z",
+      "interview": "2026-09-20（标题）",
+      "note": "公司未具名，不能按“大厂云游戏”猜测公司；作者复盘答案另行核对。",
+      "platform": "个人博客",
+      "published": "2026-09-21T02:02:00.000Z",
+      "edited": "",
+      "year_basis": "原标题明确2026面试日期；文章页面日期",
+      "year_kind": "正文/标题明确2026面试日期"
+    },
+    {
+      "id": "AB06",
+      "title": "2026.09.08-北京小厂全栈面经与复盘",
+      "author": "AbelTomato",
+      "url": "https://abeltomato-blog.vercel.app/blog/2026/20260908-北京小厂全栈面经与复盘/",
+      "company": "未具名公司",
+      "role": "见原标题；相邻全栈/测开只抽通用内容",
+      "display": "2026-09-09T08:53:00.000Z",
+      "interview": "2026-09-08（标题）",
+      "note": "公司未具名，不能按“大厂云游戏”猜测公司；作者复盘答案另行核对。",
+      "platform": "个人博客",
+      "published": "2026-09-09T08:53:00.000Z",
+      "edited": "",
+      "year_basis": "原标题明确2026面试日期；文章页面日期",
+      "year_kind": "正文/标题明确2026面试日期"
+    },
+    {
+      "id": "AB08",
+      "title": "2026.09.07-上海小厂AI-Infra面经与复盘",
+      "author": "AbelTomato",
+      "url": "https://abeltomato-blog.vercel.app/blog/2026/20260907-上海小厂ai-infra面经与复盘/",
+      "company": "未具名公司",
+      "role": "见原标题；相邻全栈/测开只抽通用内容",
+      "display": "2026-09-09T02:52:00.000Z",
+      "interview": "2026-09-07（标题）",
+      "note": "公司未具名，不能按“大厂云游戏”猜测公司；作者复盘答案另行核对。",
+      "platform": "个人博客",
+      "published": "2026-09-09T02:52:00.000Z",
+      "edited": "",
+      "year_basis": "原标题明确2026面试日期；文章页面日期",
+      "year_kind": "正文/标题明确2026面试日期"
+    },
+    {
+      "id": "AB09",
+      "title": "2026.09.03-小厂Agent面经与复盘",
+      "author": "AbelTomato",
+      "url": "https://abeltomato-blog.vercel.app/blog/2026/20260903-小厂agent面经与复盘/",
+      "company": "未具名公司",
+      "role": "见原标题；相邻全栈/测开只抽通用内容",
+      "display": "2026-09-03T10:38:00.000Z",
+      "interview": "2026-09-03（标题）",
+      "note": "公司未具名，不能按“大厂云游戏”猜测公司；作者复盘答案另行核对。",
+      "platform": "个人博客",
+      "published": "2026-09-03T10:38:00.000Z",
+      "edited": "",
+      "year_basis": "原标题明确2026面试日期；文章页面日期",
+      "year_kind": "正文/标题明确2026面试日期"
+    },
+    {
+      "id": "AB10",
+      "title": "2026.09.03-小厂AI全栈面经与复盘",
+      "author": "AbelTomato",
+      "url": "https://abeltomato-blog.vercel.app/blog/2026/20260903-小厂ai全栈面经与复盘/",
+      "company": "未具名公司",
+      "role": "见原标题；相邻全栈/测开只抽通用内容",
+      "display": "2026-09-03T09:01:00.000Z",
+      "interview": "2026-09-03（标题）",
+      "note": "公司未具名，不能按“大厂云游戏”猜测公司；作者复盘答案另行核对。",
+      "platform": "个人博客",
+      "published": "2026-09-03T09:01:00.000Z",
+      "edited": "",
+      "year_basis": "原标题明确2026面试日期；文章页面日期",
+      "year_kind": "正文/标题明确2026面试日期"
+    },
+    {
+      "id": "AB11",
+      "title": "2026.09.02-小厂FDE面经与复盘",
+      "author": "AbelTomato",
+      "url": "https://abeltomato-blog.vercel.app/blog/2026/20260902-小厂fde面经与复盘/",
+      "company": "未具名公司",
+      "role": "见原标题；相邻全栈/测开只抽通用内容",
+      "display": "2026-09-03T02:38:00.000Z",
+      "interview": "2026-09-02（标题）",
+      "note": "公司未具名，不能按“大厂云游戏”猜测公司；作者复盘答案另行核对。",
+      "platform": "个人博客",
+      "published": "2026-09-03T02:38:00.000Z",
+      "edited": "",
+      "year_basis": "原标题明确2026面试日期；文章页面日期",
+      "year_kind": "正文/标题明确2026面试日期"
+    },
+    {
+      "id": "AB13",
+      "title": "2026.07.16-大厂Agent全栈一面面经与复盘",
+      "author": "AbelTomato",
+      "url": "https://abeltomato-blog.vercel.app/blog/2026/20260716-大厂agent全栈一面面经与复盘/",
+      "company": "未具名公司",
+      "role": "见原标题；相邻全栈/测开只抽通用内容",
+      "display": "2026-08-23T08:38:00.000Z",
+      "interview": "2026-07-16（标题）",
+      "note": "公司未具名，不能按“大厂云游戏”猜测公司；作者复盘答案另行核对。",
+      "platform": "个人博客",
+      "published": "2026-08-23T08:38:00.000Z",
+      "edited": "",
+      "year_basis": "原标题明确2026面试日期；文章页面日期",
+      "year_kind": "正文/标题明确2026面试日期"
+    },
+    {
+      "id": "V01",
+      "title": "面经总结",
+      "author": "yuldx",
+      "url": "https://www.v2ex.com/t/1200534",
+      "company": "阿里广告数据平台（只抽此段）",
+      "role": "数据/AI相关社招复盘，确切岗位名未写",
+      "display": "2026-03-23T12:32:34Z",
+      "interview": "正文称当周面试，具体日未写",
+      "note": "只抽作者自述阿里段的RAG优化、工具路由和数据链路，不将SAP咨询岗混入。",
+      "platform": "V2EX",
+      "published": "2026-03-23T12:32:34Z",
+      "edited": "",
+      "year_basis": "原页 article:published_time=2026-03-23T12:32:34Z",
+      "year_kind": "首次发布于2026；正文称近期面试"
+    },
+    {
+      "id": "LC01",
+      "title": "Interview Experience: Microsoft | SDE 2",
+      "author": "arham_asim",
+      "url": "https://leetcode.com/discuss/post/7523946/interview-experience-microsoft-sde-2-by-0562r/",
+      "company": "Microsoft",
+      "role": "SDE 2；含C++基础、算法、系统设计",
+      "display": "Jan 25, 2026",
+      "interview": "正文称近期面试，具体日未写",
+      "note": "原帖公开正文已读；堆题与最后一轮基础算法题未提供具体题面，不猜题。",
+      "platform": "LeetCode Discuss",
+      "published": "2026-01-25",
+      "edited": "2026-01-25",
+      "year_basis": "原站正文标题下明确显示 Jan 25, 2026",
+      "year_kind": "首次发布于2026；面试具体日期未写"
+    },
+    {
+      "id": "CH04",
+      "title": "C++ 软牛科技一面复盘：从类型转换到链接模型",
+      "author": "晨's Blog",
+      "url": "https://waiting.org.cn/posts/ruanniu-cpp-first-interview",
+      "company": "软牛科技",
+      "role": "C++一面",
+      "display": "2026-07-23；更新2026-07-23",
+      "interview": "未明确完整面试日期",
+      "note": "作者自述一面复盘；只提取原列问题，不将教学扩展全部算面试追问。",
+      "platform": "个人博客",
+      "published": "2026-07-23",
+      "edited": "2026-07-23",
+      "year_basis": "原站文章标题上方明确2026-07-23，更新日期另列",
+      "year_kind": "首次发布于2026；面试日期未明确"
+    }
+  ],
+  "questions": [
+    {
+      "id": "CPP-001",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "map 底层结构是什么，为什么选红黑树？",
+      "sources": [
+        "N67",
+        "CH03"
+      ]
+    },
+    {
+      "id": "CPP-003",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "map 与 unordered_map 的结构、查询性能有何差异？",
+      "sources": [
+        "N67",
+        "CH03"
+      ]
+    },
+    {
+      "id": "CPP-004",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "如何处理哈希冲突？",
+      "sources": [
+        "N46"
+      ]
+    },
+    {
+      "id": "CPP-005",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "有哪些智能指针，项目使用哪几种？",
+      "sources": [
+        "N69",
+        "CH01"
+      ]
+    },
+    {
+      "id": "CPP-008",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "vector 扩容有什么影响？",
+      "sources": [
+        "AB05"
+      ]
+    },
+    {
+      "id": "CPP-010",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "C++ 动态多态如何实现？",
+      "sources": [
+        "N67",
+        "N69"
+      ]
+    },
+    {
+      "id": "CPP-013",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "struct 与 class 的默认行为有何差异？",
+      "sources": [
+        "NC04",
+        "N69"
+      ]
+    },
+    {
+      "id": "CPP-014",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "const 可修饰哪些对象，语义分别是什么？",
+      "sources": [
+        "NC04"
+      ]
+    },
+    {
+      "id": "CPP-015",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "重载与重写有什么区别？",
+      "sources": [
+        "NC04",
+        "CH04"
+      ]
+    },
+    {
+      "id": "CPP-016",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "C++ 对象和数据通常位于哪些内存区域？",
+      "sources": [
+        "NC04"
+      ]
+    },
+    {
+      "id": "CPP-019",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "左值引用与右值引用有何差别？",
+      "sources": [
+        "N69",
+        "AB05"
+      ]
+    },
+    {
+      "id": "OS-001",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "进程和线程有什么区别？",
+      "sources": [
+        "NC12"
+      ]
+    },
+    {
+      "id": "OS-002",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "进程与线程的创建、上下文切换开销差在哪里？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "OS-004",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "僵尸进程如何产生，怎样检测？",
+      "sources": [
+        "NC12"
+      ]
+    },
+    {
+      "id": "OS-005",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "进程间有哪些通信方式？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "OS-006",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "mmap 的机制及共享访问同步怎样处理？",
+      "sources": [
+        "N18"
+      ]
+    },
+    {
+      "id": "OS-007",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "用户态与内核态如何区分？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "OS-008",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "死锁有哪些必要条件，“互斥”是什么意思？",
+      "sources": [
+        "NC04"
+      ]
+    },
+    {
+      "id": "OS-009",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "互斥锁、自旋锁、读写锁分别适合什么场景？",
+      "sources": [
+        "NC04"
+      ]
+    },
+    {
+      "id": "OS-011",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "项目为何使用原子变量，为什么不直接加锁？",
+      "sources": [
+        "N50"
+      ]
+    },
+    {
+      "id": "OS-012",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "如何在 C++ 中实现协程，函数调用在栈上怎样表现？",
+      "sources": [
+        "CH01"
+      ]
+    },
+    {
+      "id": "OS-013",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "三万个协程与三万个线程在 8核16线程 CPU 上调度有何不同？",
+      "sources": [
+        "NC14"
+      ]
+    },
+    {
+      "id": "OS-014",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "什么是内存泄漏，内存和虚拟内存耗尽后可能发生什么？",
+      "sources": [
+        "NC04"
+      ]
+    },
+    {
+      "id": "OS-015",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "虚拟内存如何理解，地址空间位于哪里？",
+      "sources": [
+        "NC04"
+      ]
+    },
+    {
+      "id": "OS-016",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "进程崩溃后如何追日志、用 GDB 查看调用栈？",
+      "sources": [
+        "CH01"
+      ]
+    },
+    {
+      "id": "OS-017",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "CPU 或内存占用异常升高时怎样定位？",
+      "sources": [
+        "N23"
+      ]
+    },
+    {
+      "id": "OS-018",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "熟悉哪些 Linux 命令与调试工具？",
+      "sources": [
+        "N46"
+      ]
+    },
+    {
+      "id": "NET-001",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "TCP 为什么三次握手，为什么不选两次或四次？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "NET-002",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "TCP 的流量控制与拥塞控制分别怎样工作？",
+      "sources": [
+        "N23"
+      ]
+    },
+    {
+      "id": "NET-003",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "TCP 和 UDP 有什么差别，如何选择应用场景？",
+      "sources": [
+        "NC04"
+      ]
+    },
+    {
+      "id": "NET-004",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "如何在 UDP 上实现可靠传输？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "NET-005",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "SMTP、Telnet、DHCP 分别使用什么传输协议？",
+      "sources": [
+        "NC04"
+      ]
+    },
+    {
+      "id": "NET-006",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "从浏览器输入 URL 到页面返回，网络经历哪些步骤？",
+      "sources": [
+        "NC17"
+      ]
+    },
+    {
+      "id": "NET-007",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "HTTPS 建连与加密验证流程是什么？",
+      "sources": [
+        "NC12"
+      ]
+    },
+    {
+      "id": "NET-009",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "ARP 解决什么问题，路由器转发时目标 MAC 怎样确定？",
+      "sources": [
+        "NC17"
+      ]
+    },
+    {
+      "id": "NET-011",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "同步/异步、阻塞/非阻塞分别是什么意思？",
+      "sources": [
+        "CH01"
+      ]
+    },
+    {
+      "id": "NET-012",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "select、poll、epoll 有什么差别？",
+      "sources": [
+        "CH01"
+      ]
+    },
+    {
+      "id": "NET-013",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "epoll 的 LT/ET 有何差异，内核如何支持多路复用？",
+      "sources": [
+        "CH01"
+      ]
+    },
+    {
+      "id": "NET-014",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "ET 模式下怎样确保本轮可读数据读完？",
+      "sources": [
+        "CH01"
+      ]
+    },
+    {
+      "id": "NET-016",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "HTTP 长连接和短连接的目的与区别是什么？",
+      "sources": [
+        "NC19"
+      ]
+    },
+    {
+      "id": "NET-017",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "HTTP 429 表示什么？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "NET-018",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "POST、PUT、PATCH 的语义有什么差别？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "NET-019",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "零拷贝减少哪些复制，是否真的完全没有复制？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "DB-002",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "MySQL 为什么采用 B+ 树？",
+      "sources": [
+        "NC18"
+      ]
+    },
+    {
+      "id": "DB-003",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "B+ 树与 B 树相比，查询有什么特点？",
+      "sources": [
+        "NC20"
+      ]
+    },
+    {
+      "id": "DB-004",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "联合索引什么时候可用，要注意什么？",
+      "sources": [
+        "NC20",
+        "N22",
+        "N65"
+      ]
+    },
+    {
+      "id": "DB-005",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "哪些条件会导致索引无法有效利用？",
+      "sources": [
+        "N18",
+        "N39",
+        "N64"
+      ]
+    },
+    {
+      "id": "DB-006",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "遇到慢 SQL 怎样排查和优化？",
+      "sources": [
+        "N60"
+      ]
+    },
+    {
+      "id": "DB-007",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "EXPLAIN 中优先看哪些字段？",
+      "sources": [
+        "NC22",
+        "N13",
+        "N16"
+      ]
+    },
+    {
+      "id": "DB-008",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "user_id、state 等值，create_time 范围查询并排序，怎样设计索引？",
+      "sources": [
+        "NC22"
+      ]
+    },
+    {
+      "id": "DB-009",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "事务是什么，原子性靠什么保证？",
+      "sources": [
+        "NC18",
+        "N24",
+        "N51"
+      ]
+    },
+    {
+      "id": "DB-010",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "redo log 与 binlog 怎样落盘，为什么需要协调提交？",
+      "sources": [
+        "N33"
+      ]
+    },
+    {
+      "id": "DB-011",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "更新数据时日志的写入顺序是什么？",
+      "sources": [
+        "N33"
+      ]
+    },
+    {
+      "id": "DB-012",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "MySQL 主从同步如何完成；用一次插入说明链路。",
+      "sources": [
+        "NC21"
+      ]
+    },
+    {
+      "id": "DB-013",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "新业务怎样设计表？",
+      "sources": [
+        "NC22"
+      ]
+    },
+    {
+      "id": "DB-014",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "怎样权衡字段冗余与范式？",
+      "sources": [
+        "NC22"
+      ]
+    },
+    {
+      "id": "DB-015",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "用户表能否冗余地址？",
+      "sources": [
+        "NC22"
+      ]
+    },
+    {
+      "id": "REDIS-001",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "五种常见类型怎样选？",
+      "sources": [
+        "NC22"
+      ]
+    },
+    {
+      "id": "REDIS-002",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "Redis 是单线程还是多线程，如何解释？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "REDIS-004",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "Redis 有哪些持久化方式？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "REDIS-005",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "既然 Redis 能持久化，为什么还需要其他数据库？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "REDIS-006",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "什么情况下即使需要 NoSQL 也不选择 Redis？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "REDIS-007",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "bigkey 和 hotkey 怎样处理？",
+      "sources": [
+        "NC18"
+      ]
+    },
+    {
+      "id": "REDIS-008",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "Redis 主从同步如何进行？",
+      "sources": [
+        "NC18"
+      ]
+    },
+    {
+      "id": "REDIS-009",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "主节点故障后，从节点怎样晋升？",
+      "sources": [
+        "NC18"
+      ]
+    },
+    {
+      "id": "REDIS-010",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "缓存与数据库怎样保持一致？",
+      "sources": [
+        "NC22"
+      ]
+    },
+    {
+      "id": "REDIS-011",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "写库后删缓存仍会不一致吗？",
+      "sources": [
+        "NC22"
+      ]
+    },
+    {
+      "id": "REDIS-012",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "延迟双删之外还有什么方案？",
+      "sources": [
+        "NC22"
+      ]
+    },
+    {
+      "id": "REDIS-013",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "binlog 经 MQ 更新缓存有什么好处？",
+      "sources": [
+        "NC22"
+      ]
+    },
+    {
+      "id": "REDIS-014",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "Chroma 与 Redis 分别适合什么用途？",
+      "sources": [
+        "NC21"
+      ]
+    },
+    {
+      "id": "INFRA-005",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "布隆过滤器的原理是什么？",
+      "sources": [
+        "N63"
+      ]
+    },
+    {
+      "id": "INFRA-007",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "怎样设计 RPC 框架？",
+      "sources": [
+        "NC19",
+        "CH01"
+      ]
+    },
+    {
+      "id": "INFRA-008",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "服务发现与注册中心集群的高可用怎样设计？",
+      "sources": [
+        "NC19",
+        "CH01"
+      ]
+    },
+    {
+      "id": "INFRA-009",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "有哪些负载均衡方法？",
+      "sources": [
+        "NC19"
+      ]
+    },
+    {
+      "id": "INFRA-011",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "如何防止消息丢失，怎样实现消费幂等？",
+      "sources": [
+        "NC22",
+        "N45",
+        "N51"
+      ]
+    },
+    {
+      "id": "INFRA-012",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "Kafka 为什么快，基本工作原理是什么？",
+      "sources": [
+        "NC21",
+        "N45"
+      ]
+    },
+    {
+      "id": "INFRA-013",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "消息顺序性如何保证？",
+      "sources": [
+        "NC21"
+      ]
+    },
+    {
+      "id": "INFRA-014",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "如何确定 topic 的 partition 数量？",
+      "sources": [
+        "NC21"
+      ]
+    },
+    {
+      "id": "INFRA-015",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "怎样发现 MQ 积压并处理？",
+      "sources": [
+        "NC21"
+      ]
+    },
+    {
+      "id": "INFRA-016",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "消费中途宕机怎样恢复、防重？",
+      "sources": [
+        "NC22"
+      ]
+    },
+    {
+      "id": "INFRA-017",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "向量数据库用哪些索引，索引数据怎样更新？",
+      "sources": [
+        "NC21"
+      ]
+    },
+    {
+      "id": "AGENT-001",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "如何理解 Harness，它承担哪些职责？",
+      "sources": [
+        "NC10",
+        "NC20"
+      ]
+    },
+    {
+      "id": "AGENT-002",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "工具参数由模型生成时，怎样保证调用可靠性？",
+      "sources": [
+        "NC10",
+        "N21"
+      ]
+    },
+    {
+      "id": "AGENT-003",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "会话增长后如何控制上下文长度？",
+      "sources": [
+        "NC10",
+        "N05",
+        "N22"
+      ]
+    },
+    {
+      "id": "AGENT-004",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "怎样减少摘要/压缩丢失的关键信息？",
+      "sources": [
+        "NC10",
+        "NC18",
+        "N22"
+      ]
+    },
+    {
+      "id": "AGENT-005",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "长期记忆如何实现，怎样设计遗忘机制？",
+      "sources": [
+        "NC12",
+        "N52"
+      ]
+    },
+    {
+      "id": "AGENT-006",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "短期与长期记忆在项目中怎样组织？",
+      "sources": [
+        "NC13"
+      ]
+    },
+    {
+      "id": "AGENT-007",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "为什么该场景选 Workflow，其他执行范式如何比较？",
+      "sources": [
+        "NC13"
+      ]
+    },
+    {
+      "id": "AGENT-008",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "Plan-and-Execute 与 ReAct 怎样取舍？",
+      "sources": [
+        "NC14",
+        "N02",
+        "N30"
+      ]
+    },
+    {
+      "id": "AGENT-009",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "单 Agent 与多 Agent 协作的实际使用差异是什么？",
+      "sources": [
+        "NC14",
+        "N06",
+        "N44"
+      ]
+    },
+    {
+      "id": "AGENT-010",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "Skill、MCP、Function Calling、Workflow、SubAgent 分别解决什么？",
+      "sources": [
+        "NC13",
+        "N53"
+      ]
+    },
+    {
+      "id": "AGENT-011",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "为什么将 Skill/工具执行封装成 CLI？",
+      "sources": [
+        "NC13"
+      ]
+    },
+    {
+      "id": "AGENT-012",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "Skill 与 Tool 怎样区分，Skill 在什么阶段加载？",
+      "sources": [
+        "NC20",
+        "N35"
+      ]
+    },
+    {
+      "id": "AGENT-013",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "参考 LangGraph 的图节点与边怎样设计？",
+      "sources": [
+        "NC20",
+        "N55"
+      ]
+    },
+    {
+      "id": "AGENT-014",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "怎样设计意图分流，识别模糊 query？",
+      "sources": [
+        "NC20"
+      ]
+    },
+    {
+      "id": "AGENT-015",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "模型切换后，怎样保证表现一致？",
+      "sources": [
+        "NC20"
+      ]
+    },
+    {
+      "id": "AGENT-016",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "上下文、Skill、MCP 在 Harness 中怎样理解？",
+      "sources": [
+        "NC15"
+      ]
+    },
+    {
+      "id": "AGENT-017",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "如何防范提示词注入？",
+      "sources": [
+        "NC18",
+        "N51"
+      ]
+    },
+    {
+      "id": "AGENT-018",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "如何治理 Skill？",
+      "sources": [
+        "NC18"
+      ]
+    },
+    {
+      "id": "AGENT-019",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "Agent 调度运行出错时怎样处理？",
+      "sources": [
+        "NC21"
+      ]
+    },
+    {
+      "id": "AGENT-020",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "工具涉及写操作时，怎样界定权限边界？",
+      "sources": [
+        "NC20"
+      ]
+    },
+    {
+      "id": "AGENT-021",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "为什么自研 Agent 编排层而不使用开源框架？",
+      "sources": [
+        "NC20"
+      ]
+    },
+    {
+      "id": "RAG-001",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "说明 RAG 离线入库和在线问答的完整链路。",
+      "sources": [
+        "NC10",
+        "N56"
+      ]
+    },
+    {
+      "id": "RAG-002",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "为什么使用 LangGraph，项目工作流如何组织？",
+      "sources": [
+        "NC11"
+      ]
+    },
+    {
+      "id": "RAG-003",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "Markdown、TXT、PDF 怎样分别切块？",
+      "sources": [
+        "NC11"
+      ]
+    },
+    {
+      "id": "RAG-004",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "BM25 与向量检索各适合什么问题？",
+      "sources": [
+        "NC11",
+        "N42"
+      ]
+    },
+    {
+      "id": "RAG-005",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "多路召回怎样融合，RRF 为什么不直接合并原分数？",
+      "sources": [
+        "NC11"
+      ]
+    },
+    {
+      "id": "RAG-006",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "为什么粗排后还需要 Cross-Encoder？",
+      "sources": [
+        "NC11"
+      ]
+    },
+    {
+      "id": "RAG-007",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "预训练重排模型与业务目标不一致，怎样确认效果？",
+      "sources": [
+        "NC11"
+      ]
+    },
+    {
+      "id": "RAG-008",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "评测集如何构造；AI 生成数据怎样保证覆盖与质量？",
+      "sources": [
+        "NC11",
+        "N37"
+      ]
+    },
+    {
+      "id": "RAG-009",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "多个评测指标中，哪个最能判断目标达成？",
+      "sources": [
+        "NC11"
+      ]
+    },
+    {
+      "id": "RAG-010",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "用户口语化、错别字或意图不明时怎样处理？",
+      "sources": [
+        "NC11"
+      ]
+    },
+    {
+      "id": "RAG-011",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "已有长上下文，为什么仍使用 RAG？",
+      "sources": [
+        "NC14"
+      ]
+    },
+    {
+      "id": "RAG-012",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "不考虑 token，RAG 与 Agent 自行 grep 文档/代码各有什么优劣？",
+      "sources": [
+        "NC14"
+      ]
+    },
+    {
+      "id": "RAG-013",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "Markdown 没有标题时怎样切块？",
+      "sources": [
+        "NC14"
+      ]
+    },
+    {
+      "id": "RAG-014",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "短 query 与较长 chunk 的向量匹配如何处理？",
+      "sources": [
+        "NC14"
+      ]
+    },
+    {
+      "id": "RAG-015",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "怎样识别 RAG 生成结果的幻觉？",
+      "sources": [
+        "NC14"
+      ]
+    },
+    {
+      "id": "RAG-016",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "Milvus 与手写余弦检索的差别及内部机制是什么？",
+      "sources": [
+        "NC14"
+      ]
+    },
+    {
+      "id": "RAG-017",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "如何理解模型 Prompt Cache？",
+      "sources": [
+        "NC14"
+      ]
+    },
+    {
+      "id": "RAG-018",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "Python GIL 是什么？",
+      "sources": [
+        "NC12"
+      ]
+    },
+    {
+      "id": "RAG-019",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "Python 同步并发与异步并发怎样区分？",
+      "sources": [
+        "NC12"
+      ]
+    },
+    {
+      "id": "RAG-020",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "用 AI 写代码后，怎样判断代码正确？",
+      "sources": [
+        "NC14",
+        "N44",
+        "AB09"
+      ]
+    },
+    {
+      "id": "RAG-021",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "简历评分怎样结构化输出，评分维度如何划分？",
+      "sources": [
+        "NC10"
+      ]
+    },
+    {
+      "id": "DESIGN-001",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "不用 MQ 等中间件，设计支持数据存取的异步系统。",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "DESIGN-002",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "两台机器各有默认网关，从 curl 到响应返回怎样走？",
+      "sources": [
+        "NC17"
+      ]
+    },
+    {
+      "id": "DESIGN-003",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "POST 业务需要幂等，怎样设计接口？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "DESIGN-004",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "流量没明显增加却 OOM 且 CPU 飙高，怎样应急排查？",
+      "sources": [
+        "NC18"
+      ]
+    },
+    {
+      "id": "DESIGN-005",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "服务承接 5000—6000 人、每天十几万请求，怎样扩容？",
+      "sources": [
+        "NC20"
+      ]
+    },
+    {
+      "id": "DESIGN-006",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "长任务通常5分钟，突然变15—20分钟，怎样定位与优化？",
+      "sources": [
+        "NC10"
+      ]
+    },
+    {
+      "id": "DESIGN-007",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "两个 QA 提交相同查询，报告会一致吗？如何处理变化？",
+      "sources": [
+        "NC13"
+      ]
+    },
+    {
+      "id": "DESIGN-008",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "用户信息不全，怎样补参数；资源不唯一时怎样选择？",
+      "sources": [
+        "NC13"
+      ]
+    },
+    {
+      "id": "DESIGN-009",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "新功能没有历史问题单，怎样设计 Agent 测试用例？",
+      "sources": [
+        "NC13",
+        "N32"
+      ]
+    },
+    {
+      "id": "DESIGN-010",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "执行失败的结果怎样回流，知识怎样持续迭代？",
+      "sources": [
+        "NC13"
+      ]
+    },
+    {
+      "id": "DESIGN-011",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "用 Agent 直接完成需求交付有什么问题，何时自动回滚？",
+      "sources": [
+        "NC15",
+        "N37"
+      ]
+    },
+    {
+      "id": "DESIGN-012",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "怎样设计 A/B 测试系统？",
+      "sources": [
+        "NC15"
+      ]
+    },
+    {
+      "id": "DESIGN-013",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "对剩余少量错误，怎样增加结果检测机制？",
+      "sources": [
+        "NC14"
+      ]
+    },
+    {
+      "id": "ALG-001",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "实现 LRU 缓存。",
+      "sources": [
+        "NC16",
+        "N20",
+        "CH01",
+        "LC01"
+      ]
+    },
+    {
+      "id": "ALG-011",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "给定 n 和可用数字集合，构造严格小于 n 的最大整数。",
+      "sources": [
+        "NC10"
+      ]
+    },
+    {
+      "id": "ALG-012",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "说明并实现快速排序。",
+      "sources": [
+        "NC12",
+        "N21"
+      ]
+    },
+    {
+      "id": "ALG-013",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "最长有效括号。",
+      "sources": [
+        "NC14"
+      ]
+    },
+    {
+      "id": "ALG-014",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "最长回文子串。",
+      "sources": [
+        "NC17",
+        "N36",
+        "N52",
+        "N65"
+      ]
+    },
+    {
+      "id": "ALG-015",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "求二叉树最大路径和。",
+      "sources": [
+        "NC19"
+      ]
+    },
+    {
+      "id": "ALG-016",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "统计数组中可构成三角形的三元组数量。",
+      "sources": [
+        "NC21"
+      ]
+    },
+    {
+      "id": "ALG-017",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "用二分定位完成插入排序。",
+      "sources": [
+        "NC22"
+      ]
+    },
+    {
+      "id": "ALG-018",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "任务区间已知，求无冲突的最少线程数。",
+      "sources": [
+        "NC22"
+      ]
+    },
+    {
+      "id": "PROJECT-001",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "介绍项目背景、个人职责与完整请求链路。",
+      "sources": [
+        "NC13",
+        "NC17",
+        "N06",
+        "LC01",
+        "CH04"
+      ]
+    },
+    {
+      "id": "PROJECT-002",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "画出 Agent 的架构和工作流程，沿图解释实现。",
+      "sources": [
+        "NC12",
+        "NC17",
+        "N38"
+      ]
+    },
+    {
+      "id": "PROJECT-003",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "为什么做 Deep Research Agent，而不直接用模型产品能力？",
+      "sources": [
+        "NC19"
+      ]
+    },
+    {
+      "id": "PROJECT-004",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "两个 Agent/RAG 项目除技术栈外，本质差异是什么？",
+      "sources": [
+        "NC11"
+      ]
+    },
+    {
+      "id": "PROJECT-005",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "耗时从一小时缩短到三分钟，瓶颈与提速点分别在哪？",
+      "sources": [
+        "NC13"
+      ]
+    },
+    {
+      "id": "PROJECT-006",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "Agent 是单业务提效，还是能复制到全公司？",
+      "sources": [
+        "NC15",
+        "N37"
+      ]
+    },
+    {
+      "id": "PROJECT-007",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "需求到代码、发布和验证，最难的环节是什么？",
+      "sources": [
+        "NC15",
+        "N60"
+      ]
+    },
+    {
+      "id": "PROJECT-008",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "Agent 开发与传统前后端开发有什么区别？",
+      "sources": [
+        "NC16"
+      ]
+    },
+    {
+      "id": "PROJECT-009",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "SQLite 为什么适合当前 Agent 平台？",
+      "sources": [
+        "NC20"
+      ]
+    },
+    {
+      "id": "PROJECT-011",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "异步日志如何处理乱序、重启续写和压缩？",
+      "sources": [
+        "CH01"
+      ]
+    },
+    {
+      "id": "PROJECT-012",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "知识问答助手为什么增加不暴露内部代码的边界？",
+      "sources": [
+        "NC21"
+      ]
+    },
+    {
+      "id": "CPP-024",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "static 的不同用法及生命周期是什么？",
+      "sources": [
+        "N67"
+      ]
+    },
+    {
+      "id": "CPP-025",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "构造函数能否为虚函数，何时需要虚析构？",
+      "sources": [
+        "N67",
+        "AB05",
+        "CH03",
+        "CH04"
+      ]
+    },
+    {
+      "id": "CPP-026",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "std::move 与转发引用分别解决什么？",
+      "sources": [
+        "N67",
+        "AB05"
+      ]
+    },
+    {
+      "id": "CPP-027",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "map 自定义键需要什么比较关系？",
+      "sources": [
+        "CH03"
+      ]
+    },
+    {
+      "id": "CPP-028",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "unordered_map 自定义键需要怎样配合 hash 与相等比较？",
+      "sources": [
+        "CH03"
+      ]
+    },
+    {
+      "id": "CPP-029",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "同一裸指针分别构造两个 shared_ptr，会发生什么？",
+      "sources": [
+        "CH03"
+      ]
+    },
+    {
+      "id": "CPP-030",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "notify_one 和 notify_all 如何选，交替打印为何可能卡住？",
+      "sources": [
+        "CH03"
+      ]
+    },
+    {
+      "id": "CPP-031",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "保存 vector 尾元素地址后反复 push_back，有哪些错误？",
+      "sources": [
+        "AB05"
+      ]
+    },
+    {
+      "id": "CPP-032",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "派生类移动构造中，把具名参数传给基类会调用什么？",
+      "sources": [
+        "N69"
+      ]
+    },
+    {
+      "id": "CPP-033",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "函数模板不同类型实例中的局部 static 是否共享？",
+      "sources": [
+        "N69"
+      ]
+    },
+    {
+      "id": "CPP-034",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "对象频繁创建销毁时，怎样用内存池管理生命周期？",
+      "sources": [
+        "N69"
+      ]
+    },
+    {
+      "id": "OS-019",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "Linux CPU 利用率如何采样，怎样归一化多核指标？",
+      "sources": [
+        "CH02"
+      ]
+    },
+    {
+      "id": "OS-020",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "read 与 mmap 处理大文件各有什么取舍？",
+      "sources": [
+        "N18"
+      ]
+    },
+    {
+      "id": "OS-021",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "系统调用如何传参、保存上下文并返回？",
+      "sources": [
+        "N33"
+      ]
+    },
+    {
+      "id": "OS-022",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "分页、分段分别解决什么问题？",
+      "sources": [
+        "N55"
+      ]
+    },
+    {
+      "id": "OS-023",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "如何区分负载高、CPU高与等待I/O？",
+      "sources": [
+        "CH02"
+      ]
+    },
+    {
+      "id": "OS-024",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "同样代码，输入扩大10倍却耗时扩大100倍，怎样排查？",
+      "sources": [
+        "N18"
+      ]
+    },
+    {
+      "id": "OS-025",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "线程池大小怎样通过压测确定？",
+      "sources": [
+        "N45",
+        "N39"
+      ]
+    },
+    {
+      "id": "OS-026",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "停止线程请求已返回，前端却一直停在 stopping，怎样排查？",
+      "sources": [
+        "AB09"
+      ]
+    },
+    {
+      "id": "OS-027",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "红黑树与 AVL 在读多写少场景怎样选择？",
+      "sources": [
+        "N38"
+      ]
+    },
+    {
+      "id": "OS-028",
+      "category": "OS",
+      "file": "02-操作系统与系统编程.md",
+      "title": "什么是内存碎片，如何降低分配开销？",
+      "sources": [
+        "N38",
+        "N69"
+      ]
+    },
+    {
+      "id": "NET-021",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "SSE 与 WebSocket 如何选择，SSE 怎样恢复连接？",
+      "sources": [
+        "N02",
+        "N35",
+        "CH02"
+      ]
+    },
+    {
+      "id": "NET-022",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "HTTP/1.1、HTTP/2、HTTP/3 的连接与队头阻塞有何区别？",
+      "sources": [
+        "N53"
+      ]
+    },
+    {
+      "id": "NET-023",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "TCP 最后一个 ACK 丢失后会怎样？",
+      "sources": [
+        "N33",
+        "CH01"
+      ]
+    },
+    {
+      "id": "NET-024",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "TIME_WAIT 多一定是故障吗，怎样判断影响？",
+      "sources": [
+        "N31"
+      ]
+    },
+    {
+      "id": "NET-025",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "请求显示发送成功，但服务端说没收到，怎样定位？",
+      "sources": [
+        "N18"
+      ]
+    },
+    {
+      "id": "NET-026",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "网卡收到数据包到应用读取，经历哪些关键步骤？",
+      "sources": [
+        "N23"
+      ]
+    },
+    {
+      "id": "NET-027",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "HTTP Keep-Alive 与客户端连接池是什么关系？",
+      "sources": [
+        "N53"
+      ]
+    },
+    {
+      "id": "NET-028",
+      "category": "NET",
+      "file": "03-计算机网络与网络编程.md",
+      "title": "GET 与 POST 的语义和使用场景是什么？",
+      "sources": [
+        "AB13"
+      ]
+    },
+    {
+      "id": "DB-018",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "聚簇索引、二级索引与回表是什么关系？",
+      "sources": [
+        "N02",
+        "N13",
+        "N20"
+      ]
+    },
+    {
+      "id": "DB-019",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "覆盖索引是什么，(A,B,C) 索引下 SELECT 哪些字段不用回表？",
+      "sources": [
+        "N22"
+      ]
+    },
+    {
+      "id": "DB-020",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "WHERE 中 B在A前，会破坏 (A,B) 联合索引吗？",
+      "sources": [
+        "N22",
+        "N24"
+      ]
+    },
+    {
+      "id": "DB-021",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "(A,B,C) 只查 B/C，或只查 A/C，分别怎样使用索引？",
+      "sources": [
+        "N22"
+      ]
+    },
+    {
+      "id": "DB-022",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "隔离级别、RC/RR 与脏读、不可重复读、幻读怎样对应？",
+      "sources": [
+        "N17",
+        "N23"
+      ]
+    },
+    {
+      "id": "DB-023",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "MVCC 如何组织版本并判断可见性？",
+      "sources": [
+        "N20",
+        "N51"
+      ]
+    },
+    {
+      "id": "DB-024",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "undo、redo、binlog 各自解决什么问题？",
+      "sources": [
+        "N24",
+        "N33",
+        "N51"
+      ]
+    },
+    {
+      "id": "DB-025",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "LIMIT 深分页为什么慢，如何用游标分页？",
+      "sources": [
+        "N20",
+        "N60"
+      ]
+    },
+    {
+      "id": "DB-026",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "MySQL 乐观锁、悲观锁、行锁与表锁怎样理解？",
+      "sources": [
+        "N49"
+      ]
+    },
+    {
+      "id": "DB-027",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "数据并发更新如何用 version 字段避免覆盖？",
+      "sources": [
+        "N45",
+        "N29"
+      ]
+    },
+    {
+      "id": "DB-028",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "优化器为何可能选错索引，统计信息起什么作用？",
+      "sources": [
+        "N16"
+      ]
+    },
+    {
+      "id": "DB-029",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "MySQL 去重与 ROW_NUMBER() 如何使用？",
+      "sources": [
+        "N46"
+      ]
+    },
+    {
+      "id": "DB-030",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "每部门工资前五个不同档位，怎样保留并列员工？",
+      "sources": [
+        "AB04"
+      ]
+    },
+    {
+      "id": "REDIS-015",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "缓存穿透、击穿和雪崩分别怎样处理？",
+      "sources": [
+        "N30",
+        "N51",
+        "N63"
+      ]
+    },
+    {
+      "id": "REDIS-016",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "用 Redis 做分布式锁，为何需要唯一值和比较后删除？",
+      "sources": [
+        "N20",
+        "N36",
+        "N60"
+      ]
+    },
+    {
+      "id": "REDIS-017",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "锁过期任务还没结束怎么办；续约能否彻底解决？",
+      "sources": [
+        "N20",
+        "N60"
+      ]
+    },
+    {
+      "id": "REDIS-018",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "Redis 事务与 MySQL 事务有什么不同？",
+      "sources": [
+        "N20"
+      ]
+    },
+    {
+      "id": "REDIS-019",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "Pipeline 与 Lua 的差别，哪些操作具有原子性？",
+      "sources": [
+        "N20",
+        "N25",
+        "N30"
+      ]
+    },
+    {
+      "id": "REDIS-020",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "有哪些淘汰策略，LRU 与 LFU 各有什么局限？",
+      "sources": [
+        "N20",
+        "N33"
+      ]
+    },
+    {
+      "id": "REDIS-021",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "过期时间如何维护，惰性删除与定期删除怎样配合？",
+      "sources": [
+        "N45"
+      ]
+    },
+    {
+      "id": "REDIS-022",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "Sentinel 与 Cluster 分别解决什么，怎样选？",
+      "sources": [
+        "N05",
+        "N17"
+      ]
+    },
+    {
+      "id": "REDIS-023",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "Cluster 怎样分片、通信及处理跨槽操作？",
+      "sources": [
+        "N05"
+      ]
+    },
+    {
+      "id": "REDIS-024",
+      "category": "REDIS",
+      "file": "05-Redis.md",
+      "title": "布隆过滤器为什么误判，和 Bitmap 有何区别？",
+      "sources": [
+        "N63"
+      ]
+    },
+    {
+      "id": "INFRA-018",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "Raft 如何进行选主、复制及多数派提交？",
+      "sources": [
+        "N05"
+      ]
+    },
+    {
+      "id": "INFRA-019",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "Protobuf、gRPC、bRPC 分别是什么关系？",
+      "sources": [
+        "CH02"
+      ]
+    },
+    {
+      "id": "INFRA-020",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "协程 RPC 遇到 I/O 等待，如何挂起并恢复？",
+      "sources": [
+        "CH01",
+        "CH02"
+      ]
+    },
+    {
+      "id": "INFRA-021",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "Manager 断连时怎样控制重试、积压与丢失？",
+      "sources": [
+        "CH02"
+      ]
+    },
+    {
+      "id": "INFRA-022",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "MQ 异步与子线程调用同步 RPC 的区别是什么？",
+      "sources": [
+        "N22"
+      ]
+    },
+    {
+      "id": "INFRA-023",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "Kafka 的 acks、副本和 Offset 怎样影响可靠性？",
+      "sources": [
+        "N45"
+      ]
+    },
+    {
+      "id": "INFRA-024",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "RabbitMQ 消费失败、死信与重试容量怎样处理？",
+      "sources": [
+        "N24"
+      ]
+    },
+    {
+      "id": "INFRA-025",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "MySQL 任务表与 Kafka 怎样避免双写不一致？",
+      "sources": [
+        "N45"
+      ]
+    },
+    {
+      "id": "INFRA-026",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "Lease、Fencing Token 与乐观锁分别解决什么？",
+      "sources": [
+        "N29"
+      ]
+    },
+    {
+      "id": "INFRA-027",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "Worker 崩溃后，Reconcile 如何恢复未完成任务？",
+      "sources": [
+        "N29",
+        "N45"
+      ]
+    },
+    {
+      "id": "INFRA-028",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "ClickHouse 与 MySQL 适合哪些工作负载？",
+      "sources": [
+        "N05"
+      ]
+    },
+    {
+      "id": "INFRA-029",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "MySQL 索引与 Elasticsearch 倒排索引有何差别？",
+      "sources": [
+        "N24",
+        "N45"
+      ]
+    },
+    {
+      "id": "INFRA-030",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "大文件几十GB去重，不能用Redis/Kafka，怎样处理？",
+      "sources": [
+        "N45"
+      ]
+    },
+    {
+      "id": "INFRA-031",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "怎样跨服务传播 Trace，并定位到具体下游实例？",
+      "sources": [
+        "N31"
+      ]
+    },
+    {
+      "id": "INFRA-032",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "Skill 热插拔的进程池、RPC与注册中心怎样配合？",
+      "sources": [
+        "N57"
+      ]
+    },
+    {
+      "id": "INFRA-033",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "本地缓存、Redis、数据库三层怎样传播更新？",
+      "sources": [
+        "N40"
+      ]
+    },
+    {
+      "id": "INFRA-034",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "Git merge 与 rebase 的历史语义有何区别？",
+      "sources": [
+        "N69"
+      ]
+    },
+    {
+      "id": "AGENT-022",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "ReAct 的循环过程与停止条件是什么？",
+      "sources": [
+        "N30",
+        "N38",
+        "N58"
+      ]
+    },
+    {
+      "id": "AGENT-023",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "LangChain、LangGraph 与原生实现怎样取舍？",
+      "sources": [
+        "N35",
+        "N37"
+      ]
+    },
+    {
+      "id": "AGENT-024",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "LangGraph 的 State、节点、边、Reducer 怎样配合？",
+      "sources": [
+        "N21",
+        "N55"
+      ]
+    },
+    {
+      "id": "AGENT-025",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "Function Calling 从工具描述到结果回传怎样运行？",
+      "sources": [
+        "N21",
+        "N30",
+        "N60"
+      ]
+    },
+    {
+      "id": "AGENT-026",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "JSON Schema 校验通过是否就能直接执行工具？",
+      "sources": [
+        "N30",
+        "N32"
+      ]
+    },
+    {
+      "id": "AGENT-027",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "流式工具参数只收到半个 JSON，能否执行？",
+      "sources": [
+        "N30"
+      ]
+    },
+    {
+      "id": "AGENT-028",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "MCP 与 Function Calling / Tool 的边界是什么？",
+      "sources": [
+        "N53",
+        "N58",
+        "N60"
+      ]
+    },
+    {
+      "id": "AGENT-029",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "MCP stdio 和 Streamable HTTP 怎样通信？",
+      "sources": [
+        "N42",
+        "N60"
+      ]
+    },
+    {
+      "id": "AGENT-030",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "Skill 渐进式加载怎样实现，何时读脚本和资料？",
+      "sources": [
+        "N51",
+        "N58"
+      ]
+    },
+    {
+      "id": "AGENT-031",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "上百个工具怎样检索、路由和动态注册？",
+      "sources": [
+        "N44",
+        "CH01"
+      ]
+    },
+    {
+      "id": "AGENT-032",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "子 Agent 应收到哪些上下文，如何分工和汇总？",
+      "sources": [
+        "N24",
+        "N30"
+      ]
+    },
+    {
+      "id": "AGENT-033",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "如何识别跨子 Agent 的死循环及递归膨胀？",
+      "sources": [
+        "N24"
+      ]
+    },
+    {
+      "id": "AGENT-034",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "任务中断、进程重启或容器迁移后怎样恢复？",
+      "sources": [
+        "N24",
+        "N42",
+        "N50"
+      ]
+    },
+    {
+      "id": "AGENT-035",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "在长流程中如何插入人工确认并继续执行？",
+      "sources": [
+        "N16",
+        "N53"
+      ]
+    },
+    {
+      "id": "AGENT-036",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "多用户、多会话的状态和工作区怎样隔离？",
+      "sources": [
+        "N06",
+        "N32"
+      ]
+    },
+    {
+      "id": "AGENT-037",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "如何保证 Tool Call 与工具结果成组裁剪？",
+      "sources": [
+        "AB03"
+      ]
+    },
+    {
+      "id": "AGENT-038",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "用户偏好如何保存、更新、过期和按权限召回？",
+      "sources": [
+        "N52"
+      ]
+    },
+    {
+      "id": "AGENT-039",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "Prompt Engineering 和 Context Engineering 怎样区分？",
+      "sources": [
+        "N33"
+      ]
+    },
+    {
+      "id": "AGENT-040",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "怎样评估 Skill 的质量并发布新版本？",
+      "sources": [
+        "N32",
+        "AB11"
+      ]
+    },
+    {
+      "id": "AGENT-041",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "LLM 和 Agent 的联系与职责分别是什么？",
+      "sources": [
+        "N58",
+        "AB10"
+      ]
+    },
+    {
+      "id": "AGENT-042",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "如何评测单 Agent 与多 Agent，证明拆分有收益？",
+      "sources": [
+        "N29"
+      ]
+    },
+    {
+      "id": "AGENT-043",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "为什么 temperature=0 仍可能输出不同？",
+      "sources": [
+        "N51"
+      ]
+    },
+    {
+      "id": "AGENT-044",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "如何计量 token，定位耗费并控制预算？",
+      "sources": [
+        "N46",
+        "N60"
+      ]
+    },
+    {
+      "id": "AGENT-045",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "Agent 日志/Trace 要记录哪些内容以定位卡点？",
+      "sources": [
+        "N29",
+        "N42"
+      ]
+    },
+    {
+      "id": "AGENT-046",
+      "category": "AGENT",
+      "file": "07-Agent.md",
+      "title": "Prompt 的排列顺序怎样兼顾约束、相关性与缓存？",
+      "sources": [
+        "N21"
+      ]
+    },
+    {
+      "id": "RAG-022",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "RAG、微调、直接读长文与 Web 搜索怎样选？",
+      "sources": [
+        "N30",
+        "N37"
+      ]
+    },
+    {
+      "id": "RAG-023",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "父子分块、重叠及尾部不足一个chunk怎样处理？",
+      "sources": [
+        "N27"
+      ]
+    },
+    {
+      "id": "RAG-024",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "Query Rewrite 与子问题拆分怎样做，如何控制额外延迟？",
+      "sources": [
+        "N21",
+        "N27"
+      ]
+    },
+    {
+      "id": "RAG-025",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "知识增量更新怎样识别版本、失效旧向量？",
+      "sources": [
+        "N19",
+        "N31",
+        "N37",
+        "N53"
+      ]
+    },
+    {
+      "id": "RAG-026",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "Recall@K、MRR与最终答案质量分别怎样衡量？",
+      "sources": [
+        "AB03",
+        "V01"
+      ]
+    },
+    {
+      "id": "RAG-027",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "百万文档如何选TopK并控制延迟、噪声和成本？",
+      "sources": [
+        "AB03"
+      ]
+    },
+    {
+      "id": "RAG-028",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "检索到了仍答错，怎样区分召回、重排与生成问题？",
+      "sources": [
+        "N40"
+      ]
+    },
+    {
+      "id": "RAG-029",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "为何用向量数据库，直接用MySQL是否可行？",
+      "sources": [
+        "N30"
+      ]
+    },
+    {
+      "id": "RAG-030",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "知识树与GraphRAG怎样取舍？",
+      "sources": [
+        "N19"
+      ]
+    },
+    {
+      "id": "RAG-031",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "多模态文档图片/OCR如何入库并控制耗时？",
+      "sources": [
+        "N27",
+        "N56"
+      ]
+    },
+    {
+      "id": "RAG-032",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "Agent评测怎样结合确定性检查、模型评分和人工标注？",
+      "sources": [
+        "N23",
+        "N32"
+      ]
+    },
+    {
+      "id": "RAG-033",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "如何避免局部指标提高、整体任务效果下降？",
+      "sources": [
+        "N23",
+        "N39"
+      ]
+    },
+    {
+      "id": "RAG-034",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "结构化输出怎样校验语法、业务含义及证据？",
+      "sources": [
+        "N30"
+      ]
+    },
+    {
+      "id": "RAG-035",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "模型/Prompt/检索版本切换怎样回归验证？",
+      "sources": [
+        "N32",
+        "N37"
+      ]
+    },
+    {
+      "id": "DESIGN-014",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "订单十分钟未支付自动关闭，怎样处理支付并发？",
+      "sources": [
+        "N25"
+      ]
+    },
+    {
+      "id": "DESIGN-015",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "设计Skill上传、下载、版本发布和本地Runtime平台。",
+      "sources": [
+        "N36"
+      ]
+    },
+    {
+      "id": "DESIGN-016",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "设计营销秒杀系统，重点说库存、幂等与削峰。",
+      "sources": [
+        "N36"
+      ]
+    },
+    {
+      "id": "DESIGN-017",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "设计数据分析Agent，表结构变化后如何继续工作？",
+      "sources": [
+        "N23"
+      ]
+    },
+    {
+      "id": "DESIGN-018",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "每用户一个Docker是否必要，怎样平衡隔离与资源？",
+      "sources": [
+        "N32"
+      ]
+    },
+    {
+      "id": "DESIGN-019",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "十亿条日志统计热词Top100，怎样保证不漏计？",
+      "sources": [
+        "AB08"
+      ]
+    },
+    {
+      "id": "DESIGN-020",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "抓取任务多次执行，怎样保证入库不重不丢？",
+      "sources": [
+        "AB08"
+      ]
+    },
+    {
+      "id": "DESIGN-021",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "候补人数每秒波动，如何重构搜索与报价链路？",
+      "sources": [
+        "AB01"
+      ]
+    },
+    {
+      "id": "DESIGN-022",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "运营筛选达人需3小时，怎样用AI缩短至30分钟？",
+      "sources": [
+        "AB03"
+      ]
+    },
+    {
+      "id": "DESIGN-023",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "发现严重Bug但周五计划上线，怎样处理？",
+      "sources": [
+        "AB03"
+      ]
+    },
+    {
+      "id": "DESIGN-024",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "简陋PRD要求一周交付App，如何推进？",
+      "sources": [
+        "N06"
+      ]
+    },
+    {
+      "id": "DESIGN-025",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "从热点信号到产品方案，怎样拆分AI数字员工流程？",
+      "sources": [
+        "AB11"
+      ]
+    },
+    {
+      "id": "DESIGN-026",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "构建公开站点更新监测，如何设计采集与增量通知？",
+      "sources": [
+        "AB06"
+      ]
+    },
+    {
+      "id": "ALG-019",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "使用两个采样结果，把 random5() 转成等概率 random7()。",
+      "sources": [
+        "N27"
+      ]
+    },
+    {
+      "id": "ALG-020",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "设计支持插入、删除、等概率随机取值均摊O(1)的集合。",
+      "sources": [
+        "N19"
+      ]
+    },
+    {
+      "id": "ALG-021",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "合并嵌套JSON并保持输入不变。",
+      "sources": [
+        "N46"
+      ]
+    },
+    {
+      "id": "ALG-022",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "K个一组反转链表，最后不足K个也反转。",
+      "sources": [
+        "N24"
+      ]
+    },
+    {
+      "id": "ALG-023",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "实现十六进制大整数相乘。",
+      "sources": [
+        "N24"
+      ]
+    },
+    {
+      "id": "ALG-024",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "二叉树之字形层序遍历。",
+      "sources": [
+        "N16"
+      ]
+    },
+    {
+      "id": "ALG-025",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "求二叉树右视图。",
+      "sources": [
+        "N35"
+      ]
+    },
+    {
+      "id": "ALG-026",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "实现前缀树及查询接口。",
+      "sources": [
+        "N35"
+      ]
+    },
+    {
+      "id": "ALG-027",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "序列化与反序列化二叉树。",
+      "sources": [
+        "N42"
+      ]
+    },
+    {
+      "id": "ALG-028",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "由前序、中序遍历重建二叉树。",
+      "sources": [
+        "N69"
+      ]
+    },
+    {
+      "id": "ALG-029",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "判断链表有环；找数组中其余成对、仅一项出现一次的数。",
+      "sources": [
+        "N38"
+      ]
+    },
+    {
+      "id": "ALG-030",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "无重复字符的最长子串。",
+      "sources": [
+        "N44"
+      ]
+    },
+    {
+      "id": "ALG-031",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "最长递增子序列。",
+      "sources": [
+        "N49"
+      ]
+    },
+    {
+      "id": "ALG-032",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "最短无序连续子数组。",
+      "sources": [
+        "N20"
+      ]
+    },
+    {
+      "id": "ALG-033",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "预测赢家：两人从数组两端取数，平局算先手赢。",
+      "sources": [
+        "AB04"
+      ]
+    },
+    {
+      "id": "ALG-034",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "排序数组中三数之和严格小于target的三元组数量。",
+      "sources": [
+        "AB05"
+      ]
+    },
+    {
+      "id": "ALG-035",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "比较版本号，怎样边解析边比较并避免整数溢出？",
+      "sources": [
+        "AB02"
+      ]
+    },
+    {
+      "id": "ALG-036",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "合并两个有序数组。",
+      "sources": [
+        "CH02"
+      ]
+    },
+    {
+      "id": "ALG-037",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "三个线程按顺序交替打印0—100。",
+      "sources": [
+        "CH03"
+      ]
+    },
+    {
+      "id": "ALG-038",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "在旋转有序数组中查找目标。",
+      "sources": [
+        "N58"
+      ]
+    },
+    {
+      "id": "ALG-039",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "删除重复字符、保持相对顺序，得到字典序最小结果。",
+      "sources": [
+        "N55"
+      ]
+    },
+    {
+      "id": "ALG-040",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "组合总和II：候选元素每个最多用一次且结果去重。",
+      "sources": [
+        "N63"
+      ]
+    },
+    {
+      "id": "ALG-041",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "给定1到N，列出所有选K个数的组合。",
+      "sources": [
+        "N23"
+      ]
+    },
+    {
+      "id": "ALG-042",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "会议区间能否全部参加，最少需要几间会议室？",
+      "sources": [
+        "N51"
+      ]
+    },
+    {
+      "id": "ALG-043",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "只用一个队列实现栈；删除链表倒数第N个节点。",
+      "sources": [
+        "AB13"
+      ]
+    },
+    {
+      "id": "PROJECT-013",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "项目性能评测如何复现，AI参与了哪些环节？",
+      "sources": [
+        "N02"
+      ]
+    },
+    {
+      "id": "PROJECT-014",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "如何说明开源Bug的发现、最小复现、修复与回归？",
+      "sources": [
+        "CH01",
+        "AB05"
+      ]
+    },
+    {
+      "id": "PROJECT-015",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "一段经历怎样讲出问题、贡献和可核验产出？",
+      "sources": [
+        "N16",
+        "N39",
+        "AB09",
+        "LC01"
+      ]
+    },
+    {
+      "id": "PROJECT-016",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "一个Agent项目是否真实上线，数据和用户从哪里来？",
+      "sources": [
+        "N06",
+        "N20"
+      ]
+    },
+    {
+      "id": "DESIGN-027",
+      "category": "DESIGN",
+      "file": "09-场景题与系统设计.md",
+      "title": "设计多机器、多传感器的阈值告警系统，支持人工修改告警状态。",
+      "sources": [
+        "LC01"
+      ]
+    },
+    {
+      "id": "CPP-035",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "有符号整数和无符号整数比较，为什么可能出乎预期？",
+      "sources": [
+        "CH04"
+      ]
+    },
+    {
+      "id": "CPP-036",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "函数实参有哪些隐式转换，explicit怎样约束？",
+      "sources": [
+        "CH04"
+      ]
+    },
+    {
+      "id": "CPP-037",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "封装、继承和多态怎样联系实际设计？",
+      "sources": [
+        "CH04"
+      ]
+    },
+    {
+      "id": "CPP-038",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "静态链接、动态链接与运行时加载怎样区分？",
+      "sources": [
+        "CH04"
+      ]
+    },
+    {
+      "id": "CPP-039",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "缺头文件、链接缺实现、运行时缺库分别如何排查？",
+      "sources": [
+        "CH04"
+      ]
+    },
+    {
+      "id": "CPP-040",
+      "category": "CPP",
+      "file": "01-Cpp.md",
+      "title": "指针和引用在语义、传参与返回值上有什么差别？",
+      "sources": [
+        "CH04"
+      ]
+    }
+  ]
+}
