@@ -693,7 +693,7 @@ Cache Aside常用先提交数据库再失效缓存，但数据库与缓存不在
 
 ## REDIS-016 · 用 Redis 做分布式锁，为何需要唯一值和比较后删除？
 
-**2026 面经出处：** [N20 · 字节](sources/records.md#n20)、[N36 · 字节](sources/records.md#n36)、[N60 · 蚂蚁](sources/records.md#n60)。
+**2026 面经出处：** [N20 · 字节](sources/records.md#n20)、[N36 · 字节](sources/records.md#n36)、[N60 · 蚂蚁](sources/records.md#n60)、[NOV01 · 小红书](sources/records.md#nov01)。
 
 **参考答案**
 
@@ -749,7 +749,7 @@ Redis异步复制切换可能破坏互斥；重要写入可需fencing或数据�
 
 ## REDIS-017 · 锁过期任务还没结束怎么办；续约能否彻底解决？
 
-**2026 面经出处：** [N20 · 字节](sources/records.md#n20)、[N60 · 蚂蚁](sources/records.md#n60)。
+**2026 面经出处：** [N20 · 字节](sources/records.md#n20)、[N60 · 蚂蚁](sources/records.md#n60)、[NOV01 · 小红书](sources/records.md#nov01)。
 
 **参考答案**
 
@@ -786,6 +786,14 @@ return 0
 随机值区分所有者以防误解锁，单调令牌让下游判断哪个代次更新。只有资源端实际拒绝旧代次，fencing才有效；仅在日志打印一个递增数字不能阻止旧worker写入。
 
 <!-- detail:end REDIS-017 -->
+
+### 本轮追问：Redisson看门狗为何不是严格互斥保证
+
+Redisson可在适用的加锁方式下用watchdog续期；显式leaseTime等参数会改变行为，须按所用版本/API确认。它减少业务未完成而锁正常到期的风险，却无法保证长暂停、网络分区或续期失败时旧执行者立刻停止。业务进程仍可能恢复后继续写，因此资源端fencing、数据库约束或幂等依旧重要。
+
+不要把默认超时背成固定永恒值，也不把普通RLock与提供fencing的锁类型混同。回答先讲锁拥有者与重入，再说原子获取/释放、续期的前提及失败边界。
+
+[Redisson官方：锁、watchdog及fencing](https://redisson.pro/docs/data-and-services/locks-and-synchronizers/index.html)。
 
 **怎么理解**
 

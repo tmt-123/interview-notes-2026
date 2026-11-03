@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "as_of": "2026-10-30",
+  "as_of": "2026-11-03",
   "sources": [
     {
       "id": "NC04",
@@ -1276,6 +1276,51 @@
       "edited": "2026-07-23",
       "year_basis": "原站文章标题上方明确2026-07-23，更新日期另列",
       "year_kind": "首次发布于2026；面试日期未明确"
+    },
+    {
+      "id": "NOV01",
+      "title": "小红书PE一面（11.2）",
+      "author": "艾坤日记",
+      "url": "https://www.nowcoder.com/feed/main/detail/37ca05e39cc14069bfd2dfc5365d6187?sourceSSR=post",
+      "company": "小红书",
+      "role": "PE一面",
+      "platform": "牛客",
+      "published": "2026-11-02T16:29:01+08:00",
+      "edited": "2026-11-02T16:29:01+08:00",
+      "interview": "11.2（标题未写年份）",
+      "year_basis": "原站主帖 __INITIAL_STATE__ 的 createdAt，转换为Asia/Shanghai",
+      "year_kind": "2026-11-02—03首次发布；正文面试月日另列",
+      "note": "2026-11-03增量核验；已读取原站正文，不用聚合页代替。"
+    },
+    {
+      "id": "NOV02",
+      "title": "数字政通 Agent研发 一面",
+      "author": "沙琪玛队长",
+      "url": "https://www.nowcoder.com/feed/main/detail/8e7596549e1c4ff197f755284a30484e?sourceSSR=post",
+      "company": "数字政通",
+      "role": "Agent研发一面",
+      "platform": "牛客",
+      "published": "2026-11-02T16:08:36+08:00",
+      "edited": "2026-11-03T09:53:25+08:00",
+      "interview": "11.2（正文未写年份）",
+      "year_basis": "原站主帖 __INITIAL_STATE__ 的 createdAt，转换为Asia/Shanghai",
+      "year_kind": "2026-11-02—03首次发布；正文面试月日另列",
+      "note": "2026-11-03增量核验；已读取原站正文，不用聚合页代替。"
+    },
+    {
+      "id": "NOV03",
+      "title": "小红书PE AI与全栈 一面秒挂？",
+      "author": "在抱佛脚的芝士很完美",
+      "url": "https://www.nowcoder.com/feed/main/detail/eb319df6903245df94f787a97205c73c",
+      "company": "小红书",
+      "role": "PE AI与全栈一面",
+      "platform": "牛客",
+      "published": "2026-11-03T11:50:37+08:00",
+      "edited": "2026-11-03T11:50:37+08:00",
+      "interview": "11/3（正文未写年份）",
+      "year_basis": "原站主帖 __INITIAL_STATE__ 的 createdAt，转换为Asia/Shanghai",
+      "year_kind": "2026-11-02—03首次发布；正文面试月日另列",
+      "note": "2026-11-03增量核验；已读取原站正文，不用聚合页代替。"
     }
   ],
   "questions": [
@@ -1710,7 +1755,17 @@
       "sources": [
         "N18",
         "N39",
-        "N64"
+        "N64",
+        "NOV03"
+      ]
+    },
+    {
+      "id": "DB-031",
+      "category": "DB",
+      "file": "04-MySQL.md",
+      "title": "性别等低基数字段适合建索引吗，什么时候仍可能有效？",
+      "sources": [
+        "NOV03"
       ]
     },
     {
@@ -1944,6 +1999,15 @@
       ]
     },
     {
+      "id": "INFRA-035",
+      "category": "INFRA",
+      "file": "06-基础设施与分布式存储.md",
+      "title": "HTTP与DDS分别适合传什么，DDS通信失败怎样分层排查？",
+      "sources": [
+        "NOV02"
+      ]
+    },
+    {
       "id": "INFRA-008",
       "category": "INFRA",
       "file": "06-基础设施与分布式存储.md",
@@ -2035,7 +2099,8 @@
       "title": "如何理解 Harness，它承担哪些职责？",
       "sources": [
         "NC10",
-        "NC20"
+        "NC20",
+        "NOV01"
       ]
     },
     {
@@ -2086,7 +2151,8 @@
       "file": "07-Agent.md",
       "title": "短期与长期记忆在项目中怎样组织？",
       "sources": [
-        "NC13"
+        "NC13",
+        "NOV03"
       ]
     },
     {
@@ -2156,7 +2222,8 @@
       "title": "参考 LangGraph 的图节点与边怎样设计？",
       "sources": [
         "NC20",
-        "N55"
+        "N55",
+        "NOV03"
       ]
     },
     {
@@ -2211,7 +2278,8 @@
       "file": "07-Agent.md",
       "title": "Agent 调度运行出错时怎样处理？",
       "sources": [
-        "NC21"
+        "NC21",
+        "NOV02"
       ]
     },
     {
@@ -2220,7 +2288,8 @@
       "file": "07-Agent.md",
       "title": "工具涉及写操作时，怎样界定权限边界？",
       "sources": [
-        "NC20"
+        "NC20",
+        "NOV03"
       ]
     },
     {
@@ -2239,7 +2308,8 @@
       "title": "说明 RAG 离线入库和在线问答的完整链路。",
       "sources": [
         "NC10",
-        "N56"
+        "N56",
+        "NOV02"
       ]
     },
     {
@@ -2248,7 +2318,8 @@
       "file": "08-RAG与AI应用.md",
       "title": "为什么使用 LangGraph，项目工作流如何组织？",
       "sources": [
-        "NC11"
+        "NC11",
+        "NOV02"
       ]
     },
     {
@@ -2257,7 +2328,8 @@
       "file": "08-RAG与AI应用.md",
       "title": "Markdown、TXT、PDF 怎样分别切块？",
       "sources": [
-        "NC11"
+        "NC11",
+        "NOV02"
       ]
     },
     {
@@ -2267,7 +2339,8 @@
       "title": "BM25 与向量检索各适合什么问题？",
       "sources": [
         "NC11",
-        "N42"
+        "N42",
+        "NOV03"
       ]
     },
     {
@@ -2367,7 +2440,8 @@
       "file": "08-RAG与AI应用.md",
       "title": "怎样识别 RAG 生成结果的幻觉？",
       "sources": [
-        "NC14"
+        "NC14",
+        "NOV02"
       ]
     },
     {
@@ -2468,7 +2542,8 @@
       "file": "09-场景题与系统设计.md",
       "title": "服务承接 5000—6000 人、每天十几万请求，怎样扩容？",
       "sources": [
-        "NC20"
+        "NC20",
+        "NOV03"
       ]
     },
     {
@@ -2643,7 +2718,9 @@
         "NC17",
         "N06",
         "LC01",
-        "CH04"
+        "CH04",
+        "NOV02",
+        "NOV03"
       ]
     },
     {
@@ -2701,7 +2778,9 @@
       "title": "需求到代码、发布和验证，最难的环节是什么？",
       "sources": [
         "NC15",
-        "N60"
+        "N60",
+        "NOV02",
+        "NOV03"
       ]
     },
     {
@@ -2710,7 +2789,8 @@
       "file": "11-项目与实习追问.md",
       "title": "Agent 开发与传统前后端开发有什么区别？",
       "sources": [
-        "NC16"
+        "NC16",
+        "NOV03"
       ]
     },
     {
@@ -3155,7 +3235,8 @@
       "sources": [
         "N20",
         "N36",
-        "N60"
+        "N60",
+        "NOV01"
       ]
     },
     {
@@ -3165,7 +3246,8 @@
       "title": "锁过期任务还没结束怎么办；续约能否彻底解决？",
       "sources": [
         "N20",
-        "N60"
+        "N60",
+        "NOV01"
       ]
     },
     {
@@ -3278,7 +3360,8 @@
       "file": "06-基础设施与分布式存储.md",
       "title": "MQ 异步与子线程调用同步 RPC 的区别是什么？",
       "sources": [
-        "N22"
+        "N22",
+        "NOV02"
       ]
     },
     {
@@ -3296,7 +3379,8 @@
       "file": "06-基础设施与分布式存储.md",
       "title": "RabbitMQ 消费失败、死信与重试容量怎样处理？",
       "sources": [
-        "N24"
+        "N24",
+        "NOV02"
       ]
     },
     {
@@ -3500,7 +3584,8 @@
       "title": "子 Agent 应收到哪些上下文，如何分工和汇总？",
       "sources": [
         "N24",
-        "N30"
+        "N30",
+        "NOV03"
       ]
     },
     {
@@ -3530,7 +3615,8 @@
       "title": "在长流程中如何插入人工确认并继续执行？",
       "sources": [
         "N16",
-        "N53"
+        "N53",
+        "NOV03"
       ]
     },
     {
@@ -3685,7 +3771,8 @@
       "title": "Recall@K、MRR与最终答案质量分别怎样衡量？",
       "sources": [
         "AB03",
-        "V01"
+        "V01",
+        "NOV03"
       ]
     },
     {
@@ -3694,7 +3781,8 @@
       "file": "08-RAG与AI应用.md",
       "title": "百万文档如何选TopK并控制延迟、噪声和成本？",
       "sources": [
-        "AB03"
+        "AB03",
+        "NOV03"
       ]
     },
     {
@@ -3735,6 +3823,15 @@
       ]
     },
     {
+      "id": "RAG-036",
+      "category": "RAG",
+      "file": "08-RAG与AI应用.md",
+      "title": "RAG中的数据安全与脱敏应覆盖哪些阶段，怎样保留可用性？",
+      "sources": [
+        "NOV02"
+      ]
+    },
+    {
       "id": "RAG-032",
       "category": "RAG",
       "file": "08-RAG与AI应用.md",
@@ -3751,7 +3848,8 @@
       "title": "如何避免局部指标提高、整体任务效果下降？",
       "sources": [
         "N23",
-        "N39"
+        "N39",
+        "NOV03"
       ]
     },
     {
@@ -3924,6 +4022,15 @@
       "title": "K个一组反转链表，最后不足K个也反转。",
       "sources": [
         "N24"
+      ]
+    },
+    {
+      "id": "ALG-044",
+      "category": "ALG",
+      "file": "10-算法与手撕.md",
+      "title": "K个一组反转链表：若尾段不足K保持原样，怎样与“尾段也反转”区分？",
+      "sources": [
+        "NOV01"
       ]
     },
     {
@@ -4121,7 +4228,17 @@
       "file": "11-项目与实习追问.md",
       "title": "项目性能评测如何复现，AI参与了哪些环节？",
       "sources": [
-        "N02"
+        "N02",
+        "NOV03"
+      ]
+    },
+    {
+      "id": "PROJECT-017",
+      "category": "PROJECT",
+      "file": "11-项目与实习追问.md",
+      "title": "如何理解SDD流程，并评估AI辅助开发的收益、风险和效率损失？",
+      "sources": [
+        "NOV03"
       ]
     },
     {

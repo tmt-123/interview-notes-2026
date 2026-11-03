@@ -1067,3 +1067,42 @@
 - 阅读状态：已取得原站公开正文；不以搜索摘要替代。
 - 整理说明：作者自述一面复盘；只提取原列问题，不将教学扩展全部算面试追问。
 - 关联题目：[CPP-015](../01-Cpp.md#cpp-015)、[PROJECT-001](../11-项目与实习追问.md#project-001)、[CPP-025](../01-Cpp.md#cpp-025)、[CPP-035](../01-Cpp.md#cpp-035)、[CPP-036](../01-Cpp.md#cpp-036)、[CPP-037](../01-Cpp.md#cpp-037)、[CPP-038](../01-Cpp.md#cpp-038)、[CPP-039](../01-Cpp.md#cpp-039)、[CPP-040](../01-Cpp.md#cpp-040)。
+
+<a id="nov01"></a>
+
+## NOV01 · 小红书PE一面（11.2）
+
+- 原文：[小红书PE一面（11.2）](https://www.nowcoder.com/feed/main/detail/37ca05e39cc14069bfd2dfc5365d6187?sourceSSR=post)。
+- 平台 / 作者：牛客 / 艾坤日记。
+- 公司 / 岗位：小红书 / PE一面。
+- 首次发布：`2026-11-02T16:29:01+08:00`；编辑：`2026-11-02T16:29:01+08:00`。
+- 年份核验：原站主帖 __INITIAL_STATE__ 的 createdAt，转换为Asia/Shanghai。
+- 原帖面试日期：11.2（标题未写年份）。
+- 阅读状态：已取得原站主帖正文。
+- 关联题目：[AGENT-001](../07-Agent.md#agent-001)、[REDIS-016](../05-Redis.md#redis-016)、[REDIS-017](../05-Redis.md#redis-017)、[ALG-044](../10-算法与手撕.md#alg-044)。
+
+<a id="nov02"></a>
+
+## NOV02 · 数字政通 Agent研发 一面
+
+- 原文：[数字政通 Agent研发 一面](https://www.nowcoder.com/feed/main/detail/8e7596549e1c4ff197f755284a30484e?sourceSSR=post)。
+- 平台 / 作者：牛客 / 沙琪玛队长。
+- 公司 / 岗位：数字政通 / Agent研发一面。
+- 首次发布：`2026-11-02T16:08:36+08:00`；编辑：`2026-11-03T09:53:25+08:00`。
+- 年份核验：原站主帖 __INITIAL_STATE__ 的 createdAt，转换为Asia/Shanghai。
+- 原帖面试日期：11.2（正文未写年份）。
+- 阅读状态：已取得原站主帖正文。
+- 关联题目：[INFRA-035](../06-基础设施与分布式存储.md#infra-035)、[AGENT-019](../07-Agent.md#agent-019)、[RAG-001](../08-RAG与AI应用.md#rag-001)、[RAG-002](../08-RAG与AI应用.md#rag-002)、[RAG-003](../08-RAG与AI应用.md#rag-003)、[RAG-015](../08-RAG与AI应用.md#rag-015)、[PROJECT-001](../11-项目与实习追问.md#project-001)、[PROJECT-007](../11-项目与实习追问.md#project-007)、[INFRA-022](../06-基础设施与分布式存储.md#infra-022)、[INFRA-024](../06-基础设施与分布式存储.md#infra-024)、[RAG-036](../08-RAG与AI应用.md#rag-036)。
+
+<a id="nov03"></a>
+
+## NOV03 · 小红书PE AI与全栈 一面秒挂？
+
+- 原文：[小红书PE AI与全栈 一面秒挂？](https://www.nowcoder.com/feed/main/detail/eb319df6903245df94f787a97205c73c)。
+- 平台 / 作者：牛客 / 在抱佛脚的芝士很完美。
+- 公司 / 岗位：小红书 / PE AI与全栈一面。
+- 首次发布：`2026-11-03T11:50:37+08:00`；编辑：`2026-11-03T11:50:37+08:00`。
+- 年份核验：原站主帖 __INITIAL_STATE__ 的 createdAt，转换为Asia/Shanghai。
+- 原帖面试日期：11/3（正文未写年份）。
+- 阅读状态：已取得原站主帖正文。
+- 关联题目：[DB-005](../04-MySQL.md#db-005)、[DB-031](../04-MySQL.md#db-031)、[AGENT-006](../07-Agent.md#agent-006)、[AGENT-013](../07-Agent.md#agent-013)、[AGENT-020](../07-Agent.md#agent-020)、[RAG-004](../08-RAG与AI应用.md#rag-004)、[DESIGN-005](../09-场景题与系统设计.md#design-005)、[PROJECT-001](../11-项目与实习追问.md#project-001)、[PROJECT-007](../11-项目与实习追问.md#project-007)、[PROJECT-008](../11-项目与实习追问.md#project-008)、[AGENT-032](../07-Agent.md#agent-032)、[AGENT-035](../07-Agent.md#agent-035)、[RAG-026](../08-RAG与AI应用.md#rag-026)、[RAG-027](../08-RAG与AI应用.md#rag-027)、[RAG-033](../08-RAG与AI应用.md#rag-033)、[PROJECT-013](../11-项目与实习追问.md#project-013)、[PROJECT-017](../11-项目与实习追问.md#project-017)。

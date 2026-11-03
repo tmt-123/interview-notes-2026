@@ -2,7 +2,7 @@
 
 [返回总目录](../README.md) · [逐帖档案](records.md) · [筛选方法](methodology.md) · [未收录与覆盖限制](pending.md)
 
-截至2026-10-30，正式收录 **76 篇原帖**、**313 道归并题目**。平台分布：牛客59篇，个人博客15篇，V2EX1篇，LeetCode Discuss1篇。
+截至2026-11-03，正式收录 **79 篇原帖**、**318 道归并题目**。平台分布：牛客62篇，个人博客15篇，V2EX1篇，LeetCode Discuss1篇。
 
 本表的年份依据是原站首次发布日期；能从正文确认的面试日期单列。仅写“2026届”、二手汇总标2026或旧帖在2026编辑，不足以进入正式题库。
 
@@ -84,3 +84,6 @@
 | [V01](records.md#v01) | [面经总结](https://www.v2ex.com/t/1200534) | V2EX | 2026-03-23T12:32:34Z | 阿里广告数据平台（只抽此段） · 数据/AI相关社招复盘，确切岗位名未写 |
 | [LC01](records.md#lc01) | [Interview Experience: Microsoft \| SDE 2](https://leetcode.com/discuss/post/7523946/interview-experience-microsoft-sde-2-by-0562r/) | LeetCode Discuss | 2026-01-25 | Microsoft · SDE 2；含C++基础、算法、系统设计 |
 | [CH04](records.md#ch04) | [C++ 软牛科技一面复盘：从类型转换到链接模型](https://waiting.org.cn/posts/ruanniu-cpp-first-interview) | 个人博客 | 2026-07-23 | 软牛科技 · C++一面 |
+| [NOV01](records.md#nov01) | [小红书PE一面（11.2）](https://www.nowcoder.com/feed/main/detail/37ca05e39cc14069bfd2dfc5365d6187?sourceSSR=post) | 牛客 | 2026-11-02T16:29:01+08:00 | 小红书 · PE一面 |
+| [NOV02](records.md#nov02) | [数字政通 Agent研发 一面](https://www.nowcoder.com/feed/main/detail/8e7596549e1c4ff197f755284a30484e?sourceSSR=post) | 牛客 | 2026-11-02T16:08:36+08:00 | 数字政通 · Agent研发一面 |
+| [NOV03](records.md#nov03) | [小红书PE AI与全栈 一面秒挂？](https://www.nowcoder.com/feed/main/detail/eb319df6903245df94f787a97205c73c) | 牛客 | 2026-11-03T11:50:37+08:00 | 小红书 · PE AI与全栈一面 |

@@ -59,7 +59,7 @@ Harness、编排、工具、记忆与上下文。本专题 **46 道题**。题�
 
 ## AGENT-001 · 如何理解 Harness，它承担哪些职责？
 
-**2026 面经出处：** [NC10 · 字节跳动](sources/records.md#nc10)、[NC20 · 小红书](sources/records.md#nc20)。
+**2026 面经出处：** [NC10 · 字节跳动](sources/records.md#nc10)、[NC20 · 小红书](sources/records.md#nc20)、[NOV01 · 小红书](sources/records.md#nov01)。
 
 **参考答案**
 
@@ -323,7 +323,7 @@ Harness通常指围绕模型的运行环境，负责上下文组装、工具执�
 
 ## AGENT-006 · 短期与长期记忆在项目中怎样组织？
 
-**2026 面经出处：** [NC13 · 美团](sources/records.md#nc13)。
+**2026 面经出处：** [NC13 · 美团](sources/records.md#nc13)、[NOV03 · 小红书](sources/records.md#nov03)。
 
 **参考答案**
 
@@ -642,7 +642,7 @@ Skill按元数据发现、正文激活、资源按需加载。发布时管理所
 
 ## AGENT-013 · 参考 LangGraph 的图节点与边怎样设计？
 
-**2026 面经出处：** [NC20 · 小红书](sources/records.md#nc20)、[N55 · 字节](sources/records.md#n55)。
+**2026 面经出处：** [NC20 · 小红书](sources/records.md#nc20)、[N55 · 字节](sources/records.md#n55)、[NOV03 · 小红书](sources/records.md#nov03)。
 
 **参考答案**
 
@@ -923,7 +923,7 @@ Skill是可发布的软件与流程资产，不只是一个Markdown文件。
 
 ## AGENT-019 · Agent 调度运行出错时怎样处理？
 
-**2026 面经出处：** [NC21 · 拼多多](sources/records.md#nc21)。
+**2026 面经出处：** [NC21 · 拼多多](sources/records.md#nc21)、[NOV02 · 数字政通](sources/records.md#nov02)。
 
 **参考答案**
 
@@ -979,7 +979,7 @@ checkpoint记录“准备发送”
 
 ## AGENT-020 · 工具涉及写操作时，怎样界定权限边界？
 
-**2026 面经出处：** [NC20 · 小红书](sources/records.md#nc20)。
+**2026 面经出处：** [NC20 · 小红书](sources/records.md#nc20)、[NOV03 · 小红书](sources/records.md#nov03)。
 
 **参考答案**
 
@@ -1558,7 +1558,7 @@ Skill按元数据发现、正文激活、资源按需加载。发布时管理所
 
 ## AGENT-032 · 子 Agent 应收到哪些上下文，如何分工和汇总？
 
-**2026 面经出处：** [N24 · 字节](sources/records.md#n24)、[N30 · 百度](sources/records.md#n30)。
+**2026 面经出处：** [N24 · 字节](sources/records.md#n24)、[N30 · 百度](sources/records.md#n30)、[NOV03 · 小红书](sources/records.md#nov03)。
 
 **参考答案**
 
@@ -1721,7 +1721,7 @@ checkpoint通常不能让任意外部调用自动exactly-once。
 
 ## AGENT-035 · 在长流程中如何插入人工确认并继续执行？
 
-**2026 面经出处：** [N16 · 字节](sources/records.md#n16)、[N53 · 深信服](sources/records.md#n53)。
+**2026 面经出处：** [N16 · 字节](sources/records.md#n16)、[N53 · 深信服](sources/records.md#n53)、[NOV03 · 小红书](sources/records.md#nov03)。
 
 **参考答案**
 
